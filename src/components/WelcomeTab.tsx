@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import {
@@ -19,6 +19,27 @@ interface WelcomeTabProps {
 }
 
 export function WelcomeTab({ onNavigateTab, onPlayOst }: WelcomeTabProps) {
+  const [resume, setResume] = useState<{ chapterId: string; pageNumber: number } | null>(
+    null
+  );
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem("glimmerfall_reader_progress");
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed?.chapterId && Number(parsed?.pageIdx) >= 0) {
+          setResume({
+            chapterId: parsed.chapterId,
+            pageNumber: Number(parsed.pageIdx) + 1,
+          });
+        }
+      }
+    } catch {
+      // ignore localStorage read errors
+    }
+  }, []);
+
   return (
     <div className="space-y-12 pb-28">
       {/* Hero Banner */}
@@ -79,11 +100,13 @@ export function WelcomeTab({ onNavigateTab, onPlayOst }: WelcomeTabProps) {
               className="flex flex-wrap gap-3"
             >
               <Link
-                href="/reader"
+                href={resume ? `/reader?chapter=${resume.chapterId}` : "/reader"}
                 className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-r from-amber-300 to-amber-500 text-slate-950 font-bold text-sm shadow-lg shadow-amber-500/20 hover:brightness-110 transition"
               >
                 <BookOpen className="w-4 h-4" />
-                Read Manga
+                {resume
+                  ? `Continue ${resume.chapterId.toUpperCase()} • Page ${resume.pageNumber}`
+                  : "Read Manga"}
               </Link>
               <button
                 onClick={() => onNavigateTab("manga")}

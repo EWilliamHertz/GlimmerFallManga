@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { OstProvider } from "@/components/OstContext";
 
 export const metadata: Metadata = {
   title: "GlimmerFall — The Fractured Nexus | Universe, Manga & OST",
   description:
-    "Welcome to the universe of GlimmerFall. Watch the trailer, listen to the built-in OST, explore the four factions, and co-create the Fractured Nexus manga.",
+    "Welcome to the universe of GlimmerFall. Watch the trailer, listen to the built-in OST, explore the four factions, and read the Fractured Nexus manga.",
 };
 
 export default function RootLayout({
@@ -15,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body className="min-h-screen bg-[#05060b] text-slate-100 antialiased selection:bg-cyan-500/30 selection:text-cyan-200">
-        {children}
+        <OstProvider>{children}</OstProvider>
       </body>
     </html>
   );

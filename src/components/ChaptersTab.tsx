@@ -7,6 +7,7 @@ import { BookOpen, Loader2, Music2, Volume2, ArrowRight } from "lucide-react";
 import type { ReaderChapter } from "@/app/api/manga-reader/route";
 import { CHAPTER_METADATA, OST_TRACKS } from "@/data/universe";
 import { FactionSymbol } from "./FactionSymbols";
+import { FeaturedCardsTray } from "./FeaturedCardsTray";
 
 interface ChaptersTabProps {
   onSelectChapterOst: (ostId: string, chapterLabel: string) => void;
@@ -99,6 +100,7 @@ export function ChaptersTab({ onSelectChapterOst }: ChaptersTabProps) {
                         {meta.synopsis}
                       </p>
                     )}
+                    <FeaturedCardsTray chapterNumber={ch.number} compact />
                   </div>
 
                   <div className="space-y-3">

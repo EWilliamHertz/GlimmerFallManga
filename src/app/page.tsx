@@ -8,7 +8,7 @@ import { GlimmerFallCrest } from "@/components/FactionSymbols";
 import { WelcomeTab } from "@/components/WelcomeTab";
 import { ChaptersTab } from "@/components/ChaptersTab";
 import { FactionsTab } from "@/components/FactionsTab";
-import { OstPlayer } from "@/components/OstPlayer";
+import { useOst } from "@/components/OstContext";
 
 type TabId = "welcome" | "manga" | "factions";
 
@@ -24,19 +24,7 @@ const TABS: {
 
 export default function HomePage() {
   const [activeTab, setActiveTab] = useState<TabId>("welcome");
-  const [currentTrackId, setCurrentTrackId] = useState<string>("ost-nexus-overture");
-  const [isPlaying, setIsPlaying] = useState<boolean>(false);
-  const [syncedLabel, setSyncedLabel] = useState<string | null>(null);
-
-  const handlePlayOst = (trackId?: string, syncTag?: string) => {
-    if (trackId) setCurrentTrackId(trackId);
-    setSyncedLabel(syncTag ?? null);
-    setIsPlaying(true);
-  };
-
-  const handleTogglePlay = (next?: boolean) => {
-    setIsPlaying((prev) => (typeof next === "boolean" ? next : !prev));
-  };
+  const { playTrack } = useOst();
 
   return (
     <div className="min-h-screen bg-[#05060b] text-slate-100 relative">
@@ -149,13 +137,13 @@ export default function HomePage() {
             {activeTab === "welcome" && (
               <WelcomeTab
                 onNavigateTab={setActiveTab}
-                onPlayOst={(trackId) => handlePlayOst(trackId)}
+                onPlayOst={(trackId) => playTrack(trackId)}
               />
             )}
             {activeTab === "manga" && (
               <ChaptersTab
                 onSelectChapterOst={(ostId, chapterTag) =>
-                  handlePlayOst(ostId, chapterTag)
+                  playTrack(ostId, chapterTag)
                 }
               />
             )}
@@ -163,18 +151,6 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       </main>
-
-      {/* Persistent Bottom OST Media Player */}
-      <OstPlayer
-        currentTrackId={currentTrackId}
-        onSelectTrack={(id) => {
-          setCurrentTrackId(id);
-          setSyncedLabel(null);
-        }}
-        isPlaying={isPlaying}
-        onTogglePlay={handleTogglePlay}
-        syncedLabel={syncedLabel}
-      />
     </div>
   );
 }

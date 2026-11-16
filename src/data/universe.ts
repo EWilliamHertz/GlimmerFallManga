@@ -36,6 +36,7 @@ export interface ChapterMeta {
   factionFocus: FactionId | "nexus";
   builtInOstId: string;
   synopsis: string;
+  featuredCards: string[];
 }
 
 export const FACTIONS: Record<FactionId, FactionInfo> = {
@@ -293,6 +294,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-nexus-overture",
     synopsis:
       "An Aether Reality Fracture splits the heavens above the four floating plates. Emberwing Courier and Prism Courier race across burning sky-lanes while Graveglass Oracle reveals the crack was no accident.",
+    featuredCards: ["Reality Fracture", "Emberwing Courier", "Prism Courier", "Solari Vanguard", "Graveglass Oracle"],
   },
   {
     number: 2,
@@ -303,6 +305,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-aether-singularity",
     synopsis:
       "Inside the trembling Chronos Ring, Nexus Weaver and Voltage Savant struggle to contain the runaway Singularity Engine—until Rootbound Mystic arrives to bind the machinery with living Terra roots.",
+    featuredCards: ["Singularity Engine", "Nexus Weaver", "Voltage Savant", "Rootbound Mystic", "Chronomancer Sage"],
   },
   {
     number: 3,
@@ -313,6 +316,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-solari-dawn",
     synopsis:
       "Above the burning span of Haloed Bastion, Solari Vanguard and Luminous Guide defend the Helios Bridge against an Umbral Assassin ambush.",
+    featuredCards: ["Solari Vanguard", "Radiant Shield", "Umbral Assassin", "Shadow Cloak", "Aurora Marshal"],
   },
   {
     number: 4,
@@ -323,6 +327,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-umbri-graveglass",
     synopsis:
       "Trapped inside the mirror galleries of Umbri, Astral Cartographer confronts Borrowed Face impostors before Graveglass Oracle reveals the awakening Void Gate.",
+    featuredCards: ["Graveglass Oracle", "Astral Cartographer", "Void Gate", "Borrowed Face", "Hollow Courtier"],
   },
   {
     number: 5,
@@ -333,6 +338,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-colossus",
     synopsis:
       "Earthshatter cracks tear across Terra as Void Stalkers crawl upward through the canyons—until Forest Warden awakens the Tectonic Colossus.",
+    featuredCards: ["Forest Warden", "Tectonic Colossus", "Granite Behemoth", "Stonekin Elder", "Earthshatter"],
   },
   {
     number: 6,
@@ -343,6 +349,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-sanctuary",
     synopsis:
       "Inside Grove Sanctuary, Gaia, The World-Soul recounts the secret history of The Nightfall King while Dawnblade Templar rallies the outposts.",
+    featuredCards: ["Grove Sanctuary", "Gaia, The World-Soul", "Rootbound Mystic", "Dawnblade Templar", "Sapling Defender"],
   },
   {
     number: 7,
@@ -353,6 +360,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-warzone",
     synopsis:
       "War erupts across the outer monoliths as Dawnblade Templar and Sunfire Colossus clash against Duskblade Fiends and Voidling Swarms.",
+    featuredCards: ["Dawnblade Templar", "Sunfire Colossus", "Voidling Swarm", "Duskblade Fiend", "Zenith Inquisitor"],
   },
   {
     number: 8,
@@ -363,6 +371,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-duel",
     synopsis:
       "Chronomancer Sage and Nexus Weaver turn an impossible Void Leviathan assault into a tactical duel inside twin Mirrorgates.",
+    featuredCards: ["Chronomancer Sage", "Void Leviathan", "Mirrorgate", "Flowbook", "Nexus Weaver"],
   },
   {
     number: 9,
@@ -373,6 +382,7 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-ch09-abyss",
     synopsis:
       "Hovering dead-center under an eclipsed sun, The Nightfall King pulls the four continents inward until Emberwing Courier ignites a blinding Solar Flare.",
+    featuredCards: ["The Nightfall King", "Solar Flare", "Emberwing Courier", "Eclipse Ritual", "Graveglass Oracle"],
   },
   {
     number: 10,
@@ -383,5 +393,6 @@ export const CHAPTER_METADATA: ChapterMeta[] = [
     builtInOstId: "ost-finale",
     synopsis:
       "All four factions weave their surviving relics through Nexus Weaver into a single Astral Convergence, uniting GlimmerFallTCG and GlimmerFall.Online.",
+    featuredCards: ["Astral Convergence", "Nexus Weaver", "Gaia, The World-Soul", "The Nightfall King", "Luminous Guide"],
   },
 ];

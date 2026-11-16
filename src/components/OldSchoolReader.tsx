@@ -21,7 +21,8 @@ import {
 import type { ReaderChapter } from "@/app/api/manga-reader/route";
 import { OST_TRACKS } from "@/data/universe";
 import { GlimmerFallCrest } from "./FactionSymbols";
-import { OstPlayer } from "./OstPlayer";
+import { FeaturedCardsTray } from "./FeaturedCardsTray";
+import { useOst } from "./OstContext";
 
 type ViewLayout = "single" | "spread" | "strip";
 
@@ -35,11 +36,8 @@ export function OldSchoolReader() {
   const [fitMode, setFitMode] = useState<"height" | "width">("height");
   const [paperBorder, setPaperBorder] = useState<boolean>(true);
 
-  // OST player state
-  const [currentTrackId, setCurrentTrackId] = useState<string>("ost-nexus-overture");
-  const [isPlaying, setIsPlaying] = useState<boolean>(false);
+  const { playTrack, setTrackOnly, isPlaying } = useOst();
   const [autoSyncOst, setAutoSyncOst] = useState<boolean>(true);
-  const [syncedLabel, setSyncedLabel] = useState<string | null>("Ch. 01");
 
   // Upload Chapter .zip modal state
   const [showUpload, setShowUpload] = useState(false);
@@ -49,7 +47,7 @@ export function OldSchoolReader() {
   const [uploading, setUploading] = useState(false);
   const [uploadMsg, setUploadMsg] = useState<string | null>(null);
 
-  const loadChapters = useCallback(async (selectId?: string) => {
+  const loadChapters = useCallback(async (selectId?: string, initialPageIdx = 0) => {
     setLoading(true);
     try {
       const res = await fetch("/api/manga-reader", { cache: "no-store" });
@@ -59,10 +57,11 @@ export function OldSchoolReader() {
       if (selectId && list.some((c) => c.id === selectId)) {
         const matched = list.find((c) => c.id === selectId)!;
         setActiveChapterId(matched.id);
-        setPageIdx(0);
+        setPageIdx(Math.min(initialPageIdx, Math.max(0, matched.pages.length - 1)));
         if (autoSyncOst) {
-          setCurrentTrackId(matched.builtInOstId);
-          setSyncedLabel(`Ch. ${String(matched.number).padStart(2, "0")}`);
+          const tag = `Ch. ${String(matched.number).padStart(2, "0")}`;
+          if (isPlaying) playTrack(matched.builtInOstId, tag);
+          else setTrackOnly(matched.builtInOstId, tag);
         }
       } else if (list.length > 0 && !list.some((c) => c.id === activeChapterId)) {
         setActiveChapterId(list[0].id);
@@ -75,18 +74,66 @@ export function OldSchoolReader() {
     } finally {
       setLoading(false);
     }
-  }, [activeChapterId]);
+  }, [activeChapterId, autoSyncOst, isPlaying, playTrack, setTrackOnly]);
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const requested = params.get("chapter") || undefined;
-    loadChapters(requested);
+    if (requested) {
+      let savedPage = 0;
+      try {
+        const raw = localStorage.getItem("glimmerfall_reader_progress");
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          if (parsed?.chapterId === requested) savedPage = Number(parsed?.pageIdx) || 0;
+        }
+      } catch {
+        // ignore storage read error
+      }
+      loadChapters(requested, savedPage);
+    } else {
+      let savedCh: string | undefined;
+      let savedPage = 0;
+      try {
+        const raw = localStorage.getItem("glimmerfall_reader_progress");
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          if (parsed?.chapterId) {
+            savedCh = parsed.chapterId;
+            savedPage = Number(parsed?.pageIdx) || 0;
+          }
+        }
+      } catch {
+        // ignore storage read error
+      }
+      loadChapters(savedCh, savedPage);
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const activeChapter = chapters.find((c) => c.id === activeChapterId) ?? chapters[0];
   const pages = activeChapter?.pages ?? [];
   const totalPages = pages.length;
+
+  // Save reading progress & preload next 2 pages
+  useEffect(() => {
+    if (!activeChapter || totalPages === 0) return;
+    try {
+      localStorage.setItem(
+        "glimmerfall_reader_progress",
+        JSON.stringify({ chapterId: activeChapter.id, pageIdx })
+      );
+    } catch {
+      // ignore storage quota errors
+    }
+    for (const offset of [1, 2]) {
+      const next = pages[pageIdx + offset];
+      if (next?.url) {
+        const img = new window.Image();
+        img.src = next.url;
+      }
+    }
+  }, [activeChapter, pageIdx, pages, totalPages]);
 
   const stepAmount = layout === "spread" ? 2 : 1;
 
@@ -132,8 +179,9 @@ export function OldSchoolReader() {
     setActiveChapterId(ch.id);
     setPageIdx(0);
     if (autoSyncOst) {
-      setCurrentTrackId(ch.builtInOstId);
-      setSyncedLabel(`Ch. ${String(ch.number).padStart(2, "0")}`);
+      const tag = `Ch. ${String(ch.number).padStart(2, "0")}`;
+      if (isPlaying) playTrack(ch.builtInOstId, tag);
+      else setTrackOnly(ch.builtInOstId, tag);
     }
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -345,9 +393,10 @@ export function OldSchoolReader() {
             <button
               onClick={() => {
                 if (activeChapter) {
-                  setCurrentTrackId(activeChapter.builtInOstId);
-                  setSyncedLabel(`Ch. ${String(activeChapter.number).padStart(2, "0")}`);
-                  setIsPlaying(true);
+                  playTrack(
+                    activeChapter.builtInOstId,
+                    `Ch. ${String(activeChapter.number).padStart(2, "0")}`
+                  );
                 }
               }}
               className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded bg-purple-600/30 hover:bg-purple-600/50 border border-purple-400/40 text-[11px] font-semibold text-purple-200"
@@ -536,6 +585,67 @@ export function OldSchoolReader() {
             </div>
           </div>
         )}
+
+        {/* Next Chapter / Finale CTA + Featured Cards in This Chapter */}
+        {activeChapter && (
+          <>
+            {(() => {
+              const curIdx = chapters.findIndex((c) => c.id === activeChapter.id);
+              const nextCh = curIdx >= 0 ? chapters[curIdx + 1] : undefined;
+              const atEnd = layout === "strip" || pageIdx >= totalPages - stepAmount;
+              if (!atEnd) return null;
+              return nextCh ? (
+                <div className="max-w-4xl mx-auto mt-6 rounded-2xl border border-amber-400/30 bg-amber-400/10 px-5 py-4 flex flex-wrap items-center justify-between gap-3">
+                  <div>
+                    <p className="text-[11px] font-mono uppercase text-amber-300">
+                      Finished Chapter {String(activeChapter.number).padStart(2, "0")}
+                    </p>
+                    <p className="text-sm font-bold text-white">
+                      Up Next: Ch. {String(nextCh.number).padStart(2, "0")} — {nextCh.title}
+                    </p>
+                  </div>
+                  <button
+                    onClick={() => handleSelectChapter(nextCh)}
+                    className="px-4 py-2 rounded-xl bg-amber-400 hover:bg-amber-300 text-zinc-950 font-bold text-xs transition"
+                  >
+                    Continue to Chapter {nextCh.number} →
+                  </button>
+                </div>
+              ) : (
+                <div className="max-w-4xl mx-auto mt-6 rounded-2xl border border-cyan-400/30 bg-gradient-to-r from-cyan-500/10 to-purple-500/10 px-5 py-4 flex flex-wrap items-center justify-between gap-3">
+                  <div>
+                    <p className="text-[11px] font-mono uppercase text-cyan-300">
+                      End of Season One • The Fractured Nexus
+                    </p>
+                    <p className="text-sm font-bold text-white">
+                      Ready to play the cards &amp; explore the living MMORPG?
+                    </p>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    <a
+                      href="https://glimmerfalltcg.com"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="px-3.5 py-2 rounded-xl bg-cyan-400 text-zinc-950 font-bold text-xs"
+                    >
+                      GlimmerFallTCG.com
+                    </a>
+                    <a
+                      href="https://glimmerfall.online"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="px-3.5 py-2 rounded-xl bg-purple-400 text-zinc-950 font-bold text-xs"
+                    >
+                      GlimmerFall.Online
+                    </a>
+                  </div>
+                </div>
+              );
+            })()}
+
+            <FeaturedCardsTray chapterNumber={activeChapter.number} />
+          </>
+        )}
       </main>
 
       {/* Add Future Chapter (.zip) Modal */}
@@ -634,20 +744,6 @@ export function OldSchoolReader() {
           </form>
         </div>
       )}
-
-      {/* Persistent OST Player */}
-      <OstPlayer
-        currentTrackId={currentTrackId}
-        onSelectTrack={(id) => {
-          setCurrentTrackId(id);
-          setSyncedLabel(null);
-        }}
-        isPlaying={isPlaying}
-        onTogglePlay={(next) =>
-          setIsPlaying((prev) => (typeof next === "boolean" ? next : !prev))
-        }
-        syncedLabel={syncedLabel}
-      />
     </div>
   );
 }
