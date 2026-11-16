@@ -1,0 +1,147 @@
+GLIMMERFALL: THE FRACTURED NEXUS — CHAPTER 08: THE CHRONOMANCER'S GAMBIT
+Act VII • Tactical Duel Over the Abyss • 20 Pages
+Synopsis: Inside the shattered Chronos Ring, Chronomancer Sage and Nexus Weaver turn an impossible Void Leviathan assault into a high-stakes tactical duel—looping time through the Flowbook while Emberwing Courier arrives with Solari's relayed energy.
+================================================================================
+
+REQUIRED GOOGLE FLOW REFERENCE IMAGES FOR CHAPTER 08:
+  @VoidLeviathan  ->  Save as VoidLeviathan.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/void_leviathan_17e944bc-mBs9kKXDMrupU9fO1FblwypdqeGod9.webp
+  @ChronomancerSage  ->  Save as ChronomancerSage.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/chronomancer_sage_d0f7b5cd-o48VRne3cfjxsSqODePYhc8CAFsCkH.webp
+  @VoltageSavant  ->  Save as VoltageSavant.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voltage_savant-0il55wWVRtqtl0pk7q7ByrO3zHyBSQ.webp
+  @PrismCourier  ->  Save as PrismCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/prism_courier-6zqj6nRw2YQcEbgtiQEevxu4qGqARr.webp
+  @NexusWeaver  ->  Save as NexusWeaver.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/nexus_weaver-NOcmQGqx0xKOO72lBgXW3BpwMXSsfg.webp
+  @Flowbook  ->  Save as Flowbook.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/flowbook-mkagy4FcXtBxlGiZ4Ac8oHlTUAxIH0.webp
+  @Mirrorgate  ->  Save as Mirrorgate.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/mirrorgate-Pg06WofYDxLPFuBXUXRm4pE3twKyg6.webp
+  @SingularityEngine  ->  Save as SingularityEngine.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/singularity_engine-vPuK01FkLh2PvRkqOrvHQrJh9OCiI8.webp
+  @StaticAnomaly  ->  Save as StaticAnomaly.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/static_anomaly-UIytetHUeFkQCMBsteqIJpA5v6pQvo.webp
+  @EmberwingCourier  ->  Save as EmberwingCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/emberwing_courier-Oht1XWTnOuwzKS6wYvH04hk1DJhSAk.webp
+  @AstralCartographer  ->  Save as AstralCartographer.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/astral_cartographer-7GG14BRP1MzcbshykYme99rMIgOiOY.webp
+  @SaplingDefender  ->  Save as SaplingDefender.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/sapling_defender-Gz8NyTnTctReFSo5lQkeWLAw8KKr6B.webp
+  @GraveglassOracle  ->  Save as GraveglassOracle.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/graveglass_oracle-zgn55QLqVLToZVCWlTlGyo8TPvJezb.webp
+  @HollowCourtier  ->  Save as HollowCourtier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/hollow_courtier-OtviMIWX3kQ63G8JulxBvWUsQOjXxk.webp
+  @VoidGate  ->  Save as VoidGate.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/void_gate_1131ae56-0jCvm8ExEg2Txe2ZATVKgqIYOGTr9F.webp
+  @DawnbladeTemplar  ->  Save as DawnbladeTemplar.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/dawnblade_templar-JSNrQIidGZhWg88RUeUCqOWBRcaAUy.webp
+  @RootboundMystic  ->  Save as RootboundMystic.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/rootbound_mystic-OsInmXj6Q7VbPykrSmFqZzZGvyZfLx.webp
+  @EclipseRitual  ->  Save as EclipseRitual.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/eclipse_ritual-RZSLexi6q3Nxxmkx2Pq6nQXbtnqHjs.webp
+  @TheNightfallKing  ->  Save as TheNightfallKing.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/the_nightfall_king-0ELeQRhBTcmt752ijL5euMW4llDb4c.webp
+
+================================================================================
+
+[#141 | Ch.08 Page 01/20 — Jaws Against Glass]
+Refs: @VoidLeviathan (VoidLeviathan.webp), @ChronomancerSage (ChronomancerSage.webp), @VoltageSavant (VoltageSavant.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Terrifying jagged. @VoidLeviathan jaws snapping centimeters from screaming @VoltageSavant while @ChronomancerSage calmly spins glowing cyan clockwork rings to freeze crumbling glass. NARRATION BOX (THE NEXUS): "Don't blink, Reader. The Void Leviathan's teeth are three inches from Voltage Savant's nose—and Chronomancer Sage just raised one calm hand." SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "THE DOME FAILED! WE'RE ALL DEAD!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Not on this turn. Rewind the glass by two heartbeats." MANGA SFX LETTERING: "CRAAACK-HISS!"
+
+--------------------------------------------------------------------------------
+
+[#142 | Ch.08 Page 02/20 — Shards Fly Backward]
+Refs: @ChronomancerSage (ChronomancerSage.webp), @PrismCourier (PrismCourier.webp), @VoidLeviathan (VoidLeviathan.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Surreal floating reverse-motion shards ascending cleanly back toward shattered arches as @ChronomancerSage guides @PrismCourier past hovering frozen @VoidLeviathan. NARRATION BOX (THE NEXUS): "Watch fallen glass leap smoothly back up into the ceiling arches. Aether doesn't block impacts—it edits them out." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "Whoa—the smoke is sucking back into the vents!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Keep moving while the loop holds! It takes three seconds for the beast to notice it missed!" MANGA SFX LETTERING: "TICK-ZING..."
+
+--------------------------------------------------------------------------------
+
+[#143 | Ch.08 Page 03/20 — A Hand Played in Thin Air]
+Refs: @NexusWeaver (NexusWeaver.webp), @Flowbook (Flowbook.webp), @Mirrorgate (Mirrorgate.webp), @VoltageSavant (VoltageSavant.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Glowing holographic card-runes fanning around @NexusWeaver holding open @Flowbook toward shimmering @Mirrorgate archway as @VoltageSavant adjusts brass levers. NARRATION BOX (THE NEXUS): "Now look at Nexus Weaver's open Flowbook. Notice the glowing sigils rising off the pages like translucent cards—this is where TCG strategy becomes war." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "I can't kill a Leviathan with one bolt—we have to trap it inside The Infinite Loop!" SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "You want to trap an abyssal dragon inside a Mirrorgate loop?! It'll shred the power coils!" MANGA SFX LETTERING: "FLICK-SHING!"
+
+--------------------------------------------------------------------------------
+
+[#144 | Ch.08 Page 04/20 — Tail Whip Through the Rafters]
+Refs: @VoidLeviathan (VoidLeviathan.webp), @NexusWeaver (NexusWeaver.webp), @SingularityEngine (SingularityEngine.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 smash shot of @VoidLeviathan's spiked tail tearing steel catwalks inches above @NexusWeaver and @SingularityEngine, selective purple-cyan sparks. NARRATION BOX (THE NEXUS): "Three seconds expire. The Leviathan remembers it's angry." SPEECH BUBBLE pointing to @VoidLeviathan (VOID LEVIATHAN): "*Deafening abyssal roar tearing steel trusses apart*" SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Savant—divert aux power to the south Mirrorgate! Don't let it coil around the Singularity!" MANGA SFX LETTERING: "SMAAASH!!"
+
+--------------------------------------------------------------------------------
+
+[#145 | Ch.08 Page 05/20 — Static Bait]
+Refs: @VoltageSavant (VoltageSavant.webp), @StaticAnomaly (StaticAnomaly.webp), @VoidLeviathan (VoidLeviathan.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. @VoltageSavant unleashing blinding arc of @StaticAnomaly lightning straight into snorting nostrils of @VoidLeviathan, high-contrast black ink and cyan glow. NARRATION BOX (THE NEXUS): "Sometimes an engineer isn't a soldier until the ceiling falls in." SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "Hey, ugly worm! Chew on forty thousand volts of Chronos static!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Good lad—keep its eyes turned left for two more beats!" MANGA SFX LETTERING: "KZZZT!"
+
+--------------------------------------------------------------------------------
+
+[#146 | Ch.08 Page 06/20 — Setting the Two Doors]
+Refs: @Mirrorgate (Mirrorgate.webp), @NexusWeaver (NexusWeaver.webp), @PrismCourier (PrismCourier.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Symmetrical twin glowing. @Mirrorgate portals igniting on opposite ends of shattered observatory hall anchored by @NexusWeaver and @PrismCourier. NARRATION BOX (THE NEXUS): "Two Mirrorgates facing each other across the hall. You know what happens when an unstoppable serpent dives through the first door and exits right back behind its own tail." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Gate One open on the north wall! Prism—light the south beacon!" SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "South Mirrorgate locked and singing! Bring the dragon home!" MANGA SFX LETTERING: "HUM-ALIGN!"
+
+--------------------------------------------------------------------------------
+
+[#147 | Ch.08 Page 07/20 — Lure Through the Eye]
+Refs: @PrismCourier (PrismCourier.webp), @VoidLeviathan (VoidLeviathan.webp), @Mirrorgate (Mirrorgate.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 high-velocity chase with @PrismCourier shooting straight into luminous @Mirrorgate portal while giant open jaws of @VoidLeviathan lunge inches behind. NARRATION BOX (THE NEXUS): "Hold onto your seat, Reader—Prism Courier flies straight between the Leviathan's teeth toward Gate One." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "Come and catch me, worm!! Right through the shiny door!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Thread the needle, kid... NOW!" MANGA SFX LETTERING: "WHOOOOOSH!"
+
+--------------------------------------------------------------------------------
+
+[#148 | Ch.08 Page 08/20 — Swallowing Its Own Tail]
+Refs: @VoidLeviathan (VoidLeviathan.webp), @Mirrorgate (Mirrorgate.webp), @NexusWeaver (NexusWeaver.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Mind-bending spatial loop showing huge. @VoidLeviathan head bursting out of South @Mirrorgate and crashing into its own body entering North @Mirrorgate as @NexusWeaver seals the circuit. NARRATION BOX (THE NEXUS): "Watch physics fold neatly in half: the Leviathan bursts out of the South Gate, sees a giant moving tail disappearing into the North Gate—and bites down on itself." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Gate lock complete! Close the loop by half a meter—trap it in perpetual orbit!" SPEECH BUBBLE pointing to @VoidLeviathan (VOID LEVIATHAN): "*Confused, furious roar echoing endlessly between twin portals*" MANGA SFX LETTERING: "VMMM-ZING!!"
+
+--------------------------------------------------------------------------------
+
+[#149 | Ch.08 Page 09/20 — Still Not Enough Power]
+Refs: @VoltageSavant (VoltageSavant.webp), @ChronomancerSage (ChronomancerSage.webp), @Mirrorgate (Mirrorgate.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Sweating. @VoltageSavant and tense @ChronomancerSage watching fractures spiderweb across glowing frame of @Mirrorgate. NARRATION BOX (THE NEXUS): "Wait—look at the brass frame around the North Gate. A beast this heavy bends even folded space." SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "The Mirrorgates are overheating! One more thrash and the crystal shatters!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "We're dry on Aether mana! Where's our Solari relay?!" MANGA SFX LETTERING: "CRACK!"
+
+--------------------------------------------------------------------------------
+
+[#150 | Ch.08 Page 10/20 — A Golden Lance From the East]
+Refs: @EmberwingCourier (EmberwingCourier.webp), @NexusWeaver (NexusWeaver.webp), @SingularityEngine (SingularityEngine.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Dazzling golden solar beam lancing across dark clouds from distant towers straight toward @SingularityEngine as @EmberwingCourier streaks beside it waving to @NexusWeaver. NARRATION BOX (THE NEXUS): "Look out the shattered dome toward Haloed Bastion—Dawnblade Templar kept her promise." SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "*Diving through the dome* CATCH THE RELAY, SAGE! All three Solari outposts just fired straight at your spire!" SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "A golden beam across three miles of void?! Divert the Singularity collector—catch that light!" MANGA SFX LETTERING: "ZIIIIING!!"
+
+--------------------------------------------------------------------------------
+
+[#151 | Ch.08 Page 11/20 — Turning Gold to Cyan]
+Refs: @ChronomancerSage (ChronomancerSage.webp), @NexusWeaver (NexusWeaver.webp), @VoidLeviathan (VoidLeviathan.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Blinding gold-and-cyan spiral beam erupting from @ChronomancerSage and @NexusWeaver's hands straight through coiled @VoidLeviathan. NARRATION BOX (THE NEXUS): "Solari heat hits Aether crystal—and the Chronos Ring finally remembers how bright it was built to shine." SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Full charge! Now, Weaver—fold the loop one last time and banish it back through the Void Gate!" SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Thread locked! Burn out of our sky, leviathan!" MANGA SFX LETTERING: "HUM-BWOOOOM!"
+
+--------------------------------------------------------------------------------
+
+[#152 | Ch.08 Page 12/20 — Banished Into the Fold]
+Refs: @PrismCourier (PrismCourier.webp), @VoltageSavant (VoltageSavant.webp), @Mirrorgate (Mirrorgate.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 aftermath as collapsing. @Mirrorgate sucks trailing purple mist inward while relieved @PrismCourier and slumped @VoltageSavant catch their breath. NARRATION BOX (THE NEXUS): "In one razor-sharp snap of folded light, the Leviathan collapses into dark mist—leaving silence behind." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "Did... did we actually just banish a Void Leviathan?!" SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "*Collapsing onto stairs* Never ask me to play bait again." MANGA SFX LETTERING: "VMMM-POP!"
+
+--------------------------------------------------------------------------------
+
+[#153 | Ch.08 Page 13/20 — Counting the Pieces]
+Refs: @EmberwingCourier (EmberwingCourier.webp), @NexusWeaver (NexusWeaver.webp), @ChronomancerSage (ChronomancerSage.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Battered. @EmberwingCourier delivering urgent report to @NexusWeaver and @ChronomancerSage beside smoking observatory instruments under purple eclipse light. NARRATION BOX (THE NEXUS): "Don't get comfortable yet, Reader. Look outside at the horizon—the eclipse just covered the whole sun." SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Listen—the Cartographer and Terra's mystics went back down into Umbri to save Graveglass Oracle. And Gaia gave Rootbound Mystic a Heart-Seed to unite all four plates!" SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Then where is Mystic now?! She was supposed to meet us here!" MANGA SFX LETTERING: "CRACKLE..."
+
+--------------------------------------------------------------------------------
+
+[#154 | Ch.08 Page 14/20 — Down in the Buried Root-Tunnel]
+Refs: @AstralCartographer (AstralCartographer.webp), @SaplingDefender (SaplingDefender.webp), @GraveglassOracle (GraveglassOracle.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Underground vine archway opening onto chaotic obsidian cavern where. @AstralCartographer and @SaplingDefender spot cornered @GraveglassOracle across glowing rift. NARRATION BOX (THE NEXUS): "Follow Gaia's hidden root-path underground, Reader—where Astral Cartographer and Sapling Defender finally reach the edge of Umbri's broken mirror hall." SPEECH BUBBLE pointing to @SaplingDefender (SAPLING DEFENDER): "Wait... look ahead through the vines! There are void flames everywhere—and the Oracle's surrounded!" SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "Hold on, Oracle!! We brought light from the surface!" MANGA SFX LETTERING: "DRIP-CRACK!"
+
+--------------------------------------------------------------------------------
+
+[#155 | Ch.08 Page 15/20 — The Oracle's Last Stand]
+Refs: @GraveglassOracle (GraveglassOracle.webp), @HollowCourtier (HollowCourtier.webp), @VoidGate (VoidGate.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Bleeding bruised. @GraveglassOracle levitating three cracked mirrors before triumphant @HollowCourtier standing beside roaring open @VoidGate. NARRATION BOX (THE NEXUS): "Her obsidian mirrors are down to three floating shards—yet Graveglass Oracle hasn't knelt an inch." SPEECH BUBBLE pointing to @GraveglassOracle (GRAVEGLASS ORACLE): "You kept your word, mapmaker... though you chose an awful moment to climb back down." SPEECH BUBBLE pointing to @HollowCourtier (HOLLOW COURTIER): "Too late, little surface rats! The Eclipse Ritual just reached total alignment!" MANGA SFX LETTERING: "CRINK-SHATTER!"
+
+--------------------------------------------------------------------------------
+
+[#156 | Ch.08 Page 16/20 — Sapling's Shield]
+Refs: @SaplingDefender (SaplingDefender.webp), @AstralCartographer (AstralCartographer.webp), @VoidGate (VoidGate.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Brave little. @SaplingDefender raising mossy wooden shield to deflect dark blast in front of @AstralCartographer while @VoidGate blazes blinding purple behind. NARRATION BOX (THE NEXUS): "Notice who throws himself straight in front of a Void-bolt without hesitating for half a beat." SPEECH BUBBLE pointing to @SaplingDefender (SAPLING DEFENDER): "Not touching her! Earth and bark—HOLD!" SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "Sapling! Watch the gate behind him—something's stepping through!" MANGA SFX LETTERING: "THUD-GROW!"
+
+--------------------------------------------------------------------------------
+
+[#157 | Ch.08 Page 17/20 — Total Eclipse]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @RootboundMystic (RootboundMystic.webp), @EclipseRitual (EclipseRitual.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Split dramatic composition under a stark black eclipsed sun matching @EclipseRitual with @DawnbladeTemplar raising sword below and @RootboundMystic running toward spire. NARRATION BOX (THE NEXUS): "Look up across every plate of GlimmerFall right now—Solari, Terra, Aether, Umbri. The sun just vanished completely inside a ring of violet fire." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "*On Helios battlements* Hold the line... even in total dark, our blades still burn!" SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "*Racing across the root-bridge* No... the eclipse hit ahead of time!" MANGA SFX LETTERING: "VMMMMMM..."
+
+--------------------------------------------------------------------------------
+
+[#158 | Ch.08 Page 18/20 — A Footstep That Stops the Wind]
+Refs: @TheNightfallKing (TheNightfallKing.webp), @GraveglassOracle (GraveglassOracle.webp), @VoidGate (VoidGate.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Dramatic worm's-eye angle of @TheNightfallKing stepping majestically out of shattered @VoidGate over broken obsidian glass while @GraveglassOracle falls back in awe. NARRATION BOX (THE NEXUS): "Down in the cavern, all fighting stops. Every mirror in the hall shatters at once—because the lock finally broke." SPEECH BUBBLE pointing to @GraveglassOracle (GRAVEGLASS ORACLE): "Step back... all of you. Do not look directly at his crown." SPEECH BUBBLE pointing to @TheNightfallKing (THE NIGHTFALL KING): "Ten centuries behind glass... and the air still smells of ash." MANGA SFX LETTERING: "THUD..."
+
+--------------------------------------------------------------------------------
+
+[#159 | Ch.08 Page 19/20 — Rising Through the Four Plates]
+Refs: @TheNightfallKing (TheNightfallKing.webp), @AstralCartographer (AstralCartographer.webp), @GraveglassOracle (GraveglassOracle.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 monumental splash of @TheNightfallKing ascending on a colossal column of black eclipse lightning out of underground cavern while tiny @AstralCartographer and @GraveglassOracle shield against shockwave. NARRATION BOX (THE NEXUS): "He doesn't climb stairs. A pillar of solid night carries him straight up through the broken center of the world." SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "He's rising straight up toward the central sky-spire—right between all four plates!" SPEECH BUBBLE pointing to @GraveglassOracle (GRAVEGLASS ORACLE): "Up! Take the root tunnel up now! Everyone in the Nexus needs every blade they have left!" MANGA SFX LETTERING: "BWOOOOOM!!"
+
+--------------------------------------------------------------------------------
+
+[#160 | Ch.08 Page 20/20 — Chapter 8 Finale: The Crown Above the Center]
+Refs: @TheNightfallKing (TheNightfallKing.webp), @EmberwingCourier (EmberwingCourier.webp), @NexusWeaver (NexusWeaver.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Sweeping panorama of @TheNightfallKing floating atop jagged dark spire suspended dead-center between all four fractured continents as @EmberwingCourier and @NexusWeaver look upward from opposite edges. NARRATION BOX (THE NEXUS): "The Chronomancer's Gambit saved Aether's ring—but the true king of the eclipse just claimed the center of the sky. Turn the page—Chapter Nine: The Nightfall King Ascends." SPEECH BUBBLE pointing to @TheNightfallKing (THE NIGHTFALL KING): "Four little kingdoms arguing over scraps. Come—show me what your light is worth." NARRATOR CAPTION BOX (THE NEXUS): "Only two chapters remain. Every hero is about to stand in one sky." MANGA SFX LETTERING: "KRA-KOOOOM!!"
+
+--------------------------------------------------------------------------------

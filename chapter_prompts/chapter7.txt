@@ -1,0 +1,148 @@
+GLIMMERFALL: THE FRACTURED NEXUS — CHAPTER 07: SIEGE OF THE THREE OUTPOSTS
+Act VI • Monolith Clash • 20 Pages
+Synopsis: All-out 3v3 war erupts across the outer outpost monoliths. Dawnblade Templar, Sunfire Colossus, and Emberwing Courier clash against Duskblade Fiends, Voidling Swarms, and a desperate counter-ambush while Prism Courier races back to Chronos Ring.
+================================================================================
+
+REQUIRED GOOGLE FLOW REFERENCE IMAGES FOR CHAPTER 07:
+  @DawnbladeTemplar  ->  Save as DawnbladeTemplar.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/dawnblade_templar-JSNrQIidGZhWg88RUeUCqOWBRcaAUy.webp
+  @AuroraMarshal  ->  Save as AuroraMarshal.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/aurora_marshal-yWkYSf7gJ07uPknnEB3QkYZ8ziADsq.webp
+  @VoidlingSwarm  ->  Save as VoidlingSwarm.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voidling_swarm-6uRtICeElPBdLeI9nz9LdJ9fSX1piv.webp
+  @SolariVanguard  ->  Save as SolariVanguard.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/solari_vanguard-wk1uWJgQQO4urlBOXVhAN7B6t9nHkI.webp
+  @DuskbladeFiend  ->  Save as DuskbladeFiend.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/duskblade_fiend-GUqHTXMNly5Tl5kt8692MIOW5dcYSx.webp
+  @EmberwingCourier  ->  Save as EmberwingCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/emberwing_courier-Oht1XWTnOuwzKS6wYvH04hk1DJhSAk.webp
+  @FirstlightScout  ->  Save as FirstlightScout.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/firstlight_scout-TouaMJEJANxIK1R6F3F2QXy3fLkXdn.webp
+  @SunfireColossus  ->  Save as SunfireColossus.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/sunfire_colossus-92PFjGRm2aR6Gi8d3xDq3XGWJiuOnt.webp
+  @ZenithInquisitor  ->  Save as ZenithInquisitor.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/zenith_inquisitor-jJ9sNZTIdx0VurBrdPdb1tJrwR1hVH.webp
+  @RadiantShield  ->  Save as RadiantShield.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/radiant_shield-g9UPwgMk3Ur8IuH5ddgmtrEkVo34iU.webp
+  @UmbralAssassin  ->  Save as UmbralAssassin.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/umbral_assassin-bvTGbKEsA9blju7FlqrHtEnT4KeD1R.webp
+  @ShadowCloak  ->  Save as ShadowCloak.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/shadow_cloak-lWervjUbI7OxQUr1jSwYzvJ7R4xejp.webp
+  @PrismCourier  ->  Save as PrismCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/prism_courier-6zqj6nRw2YQcEbgtiQEevxu4qGqARr.webp
+  @BorrowedFace  ->  Save as BorrowedFace.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/borrowed_face-ALjDQvLbPzuMcOP6S0lThlYywoaS8N.webp
+  @NexusWeaver  ->  Save as NexusWeaver.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/nexus_weaver-NOcmQGqx0xKOO72lBgXW3BpwMXSsfg.webp
+  @ChronomancerSage  ->  Save as ChronomancerSage.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/chronomancer_sage_d0f7b5cd-o48VRne3cfjxsSqODePYhc8CAFsCkH.webp
+  @HollowCourtier  ->  Save as HollowCourtier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/hollow_courtier-OtviMIWX3kQ63G8JulxBvWUsQOjXxk.webp
+  @VoltageSavant  ->  Save as VoltageSavant.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voltage_savant-0il55wWVRtqtl0pk7q7ByrO3zHyBSQ.webp
+  @VoidLeviathan  ->  Save as VoidLeviathan.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/void_leviathan_17e944bc-mBs9kKXDMrupU9fO1FblwypdqeGod9.webp
+  @Flowbook  ->  Save as Flowbook.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/flowbook-mkagy4FcXtBxlGiZ4Ac8oHlTUAxIH0.webp
+
+================================================================================
+
+[#121 | Ch.07 Page 01/20 — Three Towers Under Eclipse]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @AuroraMarshal (AuroraMarshal.webp), @VoidlingSwarm (VoidlingSwarm.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. Japanese seinen manga double-page warzone splash, aerial tactical view of three glowing monolith islands linked by stone sky-bridges engulfed in golden fire vs dark @VoidlingSwarm clouds as @DawnbladeTemplar and @AuroraMarshal coordinate troops. NARRATION BOX (THE NEXUS): "If you've ever fought a 3v3 Outpost Siege inside GlimmerFall.Online, Reader, you know this layout by heart: three sky-monoliths bridged by narrow stone causeways, burning under a fractured sky." SPEECH BUBBLE pointing to @AuroraMarshal (AURORA MARSHAL): "Outpost Alpha holds! Beta is swarming with Voidlings—Gamma's beacon just flickered red!" SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Vanguard takes Alpha! Emberwing covers the air-lanes! I'm carving straight into Gamma!" MANGA SFX LETTERING: "BOOOOM-CRACK!"
+
+--------------------------------------------------------------------------------
+
+[#122 | Ch.07 Page 02/20 — Into the Swarm]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @VoidlingSwarm (VoidlingSwarm.webp), @SolariVanguard (SolariVanguard.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 battle cut of @DawnbladeTemplar bisecting leaping @VoidlingSwarm creatures with sweeping blinding gold sword arc while @SolariVanguard advances behind her. NARRATION BOX (THE NEXUS): "Count how many shadows try to block Dawnblade Templar's first step. Notice how none survive the second." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Clear the causeway! First-ray cleave!" SPEECH BUBBLE pointing to @SolariVanguard (SOLARI VANGUARD): "Follow her wake! Lock shields behind the light!" MANGA SFX LETTERING: "SLASH-KRAKK!!"
+
+--------------------------------------------------------------------------------
+
+[#123 | Ch.07 Page 03/20 — Rain from the Dusk]
+Refs: @DuskbladeFiend (DuskbladeFiend.webp), @EmberwingCourier (EmberwingCourier.webp), @FirstlightScout (FirstlightScout.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Diving winged. @DuskbladeFiend monsters swooping toward @FirstlightScout archers as blazing @EmberwingCourier intercepts mid-air in burst of amber sparks. NARRATION BOX (THE NEXUS): "Up above the monolith spires, Duskblade Fiends dive faster than arrows." SPEECH BUBBLE pointing to @FirstlightScout (FIRSTLIGHT SCOUT): "Swoopers at twelve o'clock—Duskblade Fiends diving onto our archers!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Not on my sky-lane! Banking hard—flare scatter!" MANGA SFX LETTERING: "SHRIEEEK!"
+
+--------------------------------------------------------------------------------
+
+[#124 | Ch.07 Page 04/20 — Sunfire Steps Forward]
+Refs: @SunfireColossus (SunfireColossus.webp), @SolariVanguard (SolariVanguard.webp), @VoidlingSwarm (VoidlingSwarm.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Towering. @SunfireColossus unleashing molten amber plasma wave across crowded bridge clearing @VoidlingSwarm as @SolariVanguard ducks behind shields. NARRATION BOX (THE NEXUS): "When the outer causeway starts cracking under a hundred Voidlings, Solari sends a walking sun to clear the stone." SPEECH BUBBLE pointing to @SunfireColossus (SUNFIRE COLOSSUS): "*Furnace chest roaring open with solar flame*" SPEECH BUBBLE pointing to @SolariVanguard (SOLARI VANGUARD): "Cover your visors! The Colossus is purging the central span!" MANGA SFX LETTERING: "BWOOOOM!!"
+
+--------------------------------------------------------------------------------
+
+[#125 | Ch.07 Page 05/20 — The Siege Engine's Counter]
+Refs: @SunfireColossus (SunfireColossus.webp), @ZenithInquisitor (ZenithInquisitor.webp), @RadiantShield (RadiantShield.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Searing violet energy lances striking golden barrier of raised. @RadiantShield arrays guarded by @ZenithInquisitor before @SunfireColossus. NARRATION BOX (THE NEXUS): "Never celebrate before the monolith turns gold. Look what just rose behind Outpost Gamma." SPEECH BUBBLE pointing to @AuroraMarshal (AURORA MARSHAL): "Brace!! Dark lance fire from behind the purple haze—Siphon Soul beams targeting the Colossus!" SPEECH BUBBLE pointing to @ZenithInquisitor (ZENITH INQUISITOR): "Raise every Radiant Shield in row formation! Do NOT let that drain reach his core!" MANGA SFX LETTERING: "THOOM-SIZZLE!"
+
+--------------------------------------------------------------------------------
+
+[#126 | Ch.07 Page 06/20 — Mirror of Intent]
+Refs: @ZenithInquisitor (ZenithInquisitor.webp), @RadiantShield (RadiantShield.webp), @AuroraMarshal (AuroraMarshal.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 shot of @ZenithInquisitor angling @RadiantShield to ricochet violent purple beam straight back into dark ridge explosion while @AuroraMarshal points forward. NARRATION BOX (THE NEXUS): "Remember what Radiant Shield reflects: not just energy, but malice." SPEECH BUBBLE pointing to @ZenithInquisitor (ZENITH INQUISITOR): "Back into the dark that spawned you!" SPEECH BUBBLE pointing to @AuroraMarshal (AURORA MARSHAL): "The reflected beam shattered their hidden cliff battery! Push forward!" MANGA SFX LETTERING: "PING-KRAKOOM!"
+
+--------------------------------------------------------------------------------
+
+[#127 | Ch.07 Page 07/20 — Duel on Outpost Gamma]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @UmbralAssassin (UmbralAssassin.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Intense staredown across cracked stone circle beside glowing corrupted monolith between @DawnbladeTemplar with blazing blade and @UmbralAssassin twirling twin violet daggers. NARRATION BOX (THE NEXUS): "At the top of Outpost Gamma's steps, Dawnblade Templar finds someone waiting beside the corrupted crystal." SPEECH BUBBLE pointing to @UmbralAssassin (UMBRAL ASSASSIN): "Missed our dance on the Helios Bridge, Templar. Care to try on level stone?" SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Step away from that monolith, shadow. You aren't slipping off a cliff this time." MANGA SFX LETTERING: "CLANG!"
+
+--------------------------------------------------------------------------------
+
+[#128 | Ch.07 Page 08/20 — Steel vs Shadow Cloak]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @UmbralAssassin (UmbralAssassin.webp), @ShadowCloak (ShadowCloak.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 multi-blur clash of @DawnbladeTemplar unleashing blazing golden slash straight through dissolving @ShadowCloak worn by @UmbralAssassin. NARRATION BOX (THE NEXUS): "Watch how fast they trade strikes—eight exchanges before a single falling spark hits the ground." SPEECH BUBBLE pointing to @UmbralAssassin (UMBRAL ASSASSIN): "Heavy armor slows your wrist by half a beat!" SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Light travels faster than wristwork! Flare Strike!" MANGA SFX LETTERING: "SHING-CLANG-ZAP!"
+
+--------------------------------------------------------------------------------
+
+[#129 | Ch.07 Page 09/20 — Meanwhile, Inside Chronos Ring]
+Refs: @PrismCourier (PrismCourier.webp), @BorrowedFace (BorrowedFace.webp), @NexusWeaver (NexusWeaver.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. @PrismCourier smashing down through shattered dome glass toward @BorrowedFace lunging away from @NexusWeaver inside Chronos Ring, selective cyan-violet chaos. NARRATION BOX (THE NEXUS): "Leave the monolith battle for one heartbeat, Reader—because Prism Courier just burst back through the Chronos Ring skylight." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "WEAVER!! The impostor's inside the Ring—Watch out!!" SPEECH BUBBLE pointing to @BorrowedFace (BORROWED FACE): "Too noisy, little prism. Catch this anomaly instead!" MANGA SFX LETTERING: "KRAASH-ZAP!"
+
+--------------------------------------------------------------------------------
+
+[#130 | Ch.07 Page 10/20 — Chronomancer Intervenes]
+Refs: @ChronomancerSage (ChronomancerSage.webp), @NexusWeaver (NexusWeaver.webp), @BorrowedFace (BorrowedFace.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Glowing cyan clockwork rings locking around @BorrowedFace mid-stride while @ChronomancerSage and @NexusWeaver close in. NARRATION BOX (THE NEXUS): "A Borrowed Face can steal a coat, a voice, even a footprint—but nobody steals a jump on a Chronomancer." SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Chrono Shift. Freeze the impostor's last two steps." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Got them! Now strip that stolen face off—let's see who actually opened the Singularity!" MANGA SFX LETTERING: "TICK-LOCK!"
+
+--------------------------------------------------------------------------------
+
+[#131 | Ch.07 Page 11/20 — Hollow Mask Broken]
+Refs: @HollowCourtier (HollowCourtier.webp), @VoltageSavant (VoltageSavant.webp), @NexusWeaver (NexusWeaver.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Shattering paper-thin mask revealing pale. @HollowCourtier grinning while real bruised @VoltageSavant bursts through side door behind @NexusWeaver. NARRATION BOX (THE NEXUS): "Look at the face underneath when the stolen mask shatters—and notice the Void-rune burning inside his mouth." SPEECH BUBBLE pointing to @HollowCourtier (HOLLOW COURTIER): "*Laughing through crumbling illusion* Capture me all you like, Weaver... the Void Leviathan already smelled your Chronos tide!" SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "*Bursting out of locked closet* Wait—I wasn't the spy! Look outside the lower rift!" MANGA SFX LETTERING: "CRACK-POOF!"
+
+--------------------------------------------------------------------------------
+
+[#132 | Ch.07 Page 12/20 — Back on Gamma Monolith]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @UmbralAssassin (UmbralAssassin.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Dramatic kneeling capture as @DawnbladeTemplar pins battered @UmbralAssassin's cloak to stone with radiant sword tip pointing down. NARRATION BOX (THE NEXUS): "Back on Outpost Gamma, Dawnblade Templar pins the Assassin's cloak into stone—not for revenge, but for answers." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Your mask is broken and your swarm is burning. Tell me what the Hollow Court actually wants!" SPEECH BUBBLE pointing to @UmbralAssassin (UMBRAL ASSASSIN): "Look up at the gap between Alpha and Chronos Ring, Templar... our job wasn't holding your towers. It was stalling you long enough for HIM to hatch." MANGA SFX LETTERING: "THUD..."
+
+--------------------------------------------------------------------------------
+
+[#133 | Ch.07 Page 13/20 — Outpost Reclaimed]
+Refs: @SolariVanguard (SolariVanguard.webp), @EmberwingCourier (EmberwingCourier.webp), @DawnbladeTemplar (DawnbladeTemplar.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Triumphant golden monolith beacon glowing behind @DawnbladeTemplar and @SolariVanguard while hovering @EmberwingCourier points horrified toward looming dark sky anomaly. NARRATION BOX (THE NEXUS): "All three monoliths blaze gold again. Solari won the 3v3 siege—yet nobody cheers." SPEECH BUBBLE pointing to @SolariVanguard (SOLARI VANGUARD): "Gamma beacon purified! All three outposts back in Solari hands!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Wait—why is the sky between us and Chronos Ring turning pitch black like oil?!" MANGA SFX LETTERING: "CHIME-PING!"
+
+--------------------------------------------------------------------------------
+
+[#134 | Ch.07 Page 14/20 — Deep Rift Tremor]
+Refs: @VoidLeviathan (VoidLeviathan.webp), @AuroraMarshal (AuroraMarshal.webp), @EmberwingCourier (EmberwingCourier.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Colossal sinuous silhouette of @VoidLeviathan curving dimly inside bruised void storm clouds far beyond battlements where @AuroraMarshal and @EmberwingCourier stare. NARRATION BOX (THE NEXUS): "Remember the warning on the Hollow Courtier's lips? Look into the void sea separating the Aether and Solari plates." SPEECH BUBBLE pointing to @AuroraMarshal (AURORA MARSHAL): "Is that... an island moving sideways through the clouds?!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "That's no island! That's a living spine with scales bigger than our battlements!" MANGA SFX LETTERING: "VMMMMMM..."
+
+--------------------------------------------------------------------------------
+
+[#135 | Ch.07 Page 15/20 — Signal to the Ring]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @EmberwingCourier (EmberwingCourier.webp), @SunfireColossus (SunfireColossus.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. @DawnbladeTemplar firing golden signal flare while @SunfireColossus channels beam into outpost monolith as @EmberwingCourier rockets off toward Chronos Ring. NARRATION BOX (THE NEXUS): "Outpost siege won—now every surviving soldier turns toward the Chronos Ring." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Emberwing! Fly ahead to Chronos Ring and tell Chronomancer Sage our monoliths are charging Aether relays!" SPEECH BUBBLE pointing to @SunfireColossus (SUNFIRE COLOSSUS): "*Raising blazing hands to steady the sky-beacon*" MANGA SFX LETTERING: "FWOOSH-BANG!"
+
+--------------------------------------------------------------------------------
+
+[#136 | Ch.07 Page 16/20 — A Prisoner's Warning]
+Refs: @UmbralAssassin (UmbralAssassin.webp), @DawnbladeTemplar (DawnbladeTemplar.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Bound. @UmbralAssassin sitting against broken stone looking sideways up at @DawnbladeTemplar under darkening violet sky. NARRATION BOX (THE NEXUS): "Even an assassin recognizes when a job goes way past the contract." SPEECH BUBBLE pointing to @UmbralAssassin (UMBRAL ASSASSIN): "Hey, Templar. If you want any chance at hurting that thing in the clouds—tell your Aether friends not to cast spells in straight lines." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Why help us now?" MANGA SFX LETTERING: "CLINK..."
+
+--------------------------------------------------------------------------------
+
+[#137 | Ch.07 Page 17/20 — Because Even Shadows Need Light]
+Refs: @UmbralAssassin (UmbralAssassin.webp), @DawnbladeTemplar (DawnbladeTemplar.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Moody half-lit profile of @UmbralAssassin speaking quietly as @DawnbladeTemplar sheathes her blade beside him. NARRATION BOX (THE NEXUS): "Hear that, Reader? Umbri's killers aren't blind nihilists." SPEECH BUBBLE pointing to @UmbralAssassin (UMBRAL ASSASSIN): "Because if the Nightfall King eats the sun, there won't be any shadows left either. Just nothing." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Remember that oath when the four plates meet." MANGA SFX LETTERING: "WIND..."
+
+--------------------------------------------------------------------------------
+
+[#138 | Ch.07 Page 18/20 — The Leviathan Surfaces]
+Refs: @VoidLeviathan (VoidLeviathan.webp), @VoltageSavant (VoltageSavant.webp), @ChronomancerSage (ChronomancerSage.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 terror splash of massive coiled. @VoidLeviathan with glowing purple eyes towering just outside observatory glass dome above @VoltageSavant and @ChronomancerSage. NARRATION BOX (THE NEXUS): "Right outside the Chronos Ring windows, clouds part—and twelve glowing violet eyes lock onto the observatory." SPEECH BUBBLE pointing to @VoltageSavant (VOLTAGE SAVANT): "IT'S RIGHT OUTSIDE THE DOME!! Void Leviathan—shield the glass!!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Stay calm! We duel it the only way Aether knows how: out-think its next turn!" MANGA SFX LETTERING: "ROOOOAAAR!!"
+
+--------------------------------------------------------------------------------
+
+[#139 | Ch.07 Page 19/20 — Opening the Tactical Grid]
+Refs: @ChronomancerSage (ChronomancerSage.webp), @NexusWeaver (NexusWeaver.webp), @Flowbook (Flowbook.webp), @PrismCourier (PrismCourier.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Glowing holographic tactical sigils floating in arc before @ChronomancerSage, @NexusWeaver holding @Flowbook, and @PrismCourier facing looming dark glass window. NARRATION BOX (THE NEXUS): "Now you see why GlimmerFall is both a tactical card duel and a living world, Reader: every sigil Chronomancer Sage draws into the air bends physics itself." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Prism—feed mana into the Flowbook! Emberwing just reached the outer ring!" SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Four seconds until impact. Time to play our hand." MANGA SFX LETTERING: "ZING-HUM!"
+
+--------------------------------------------------------------------------------
+
+[#140 | Ch.07 Page 20/20 — Chapter 7 Finale: A Duel With Time Itself]
+Refs: @ChronomancerSage (ChronomancerSage.webp), @VoidLeviathan (VoidLeviathan.webp), @NexusWeaver (NexusWeaver.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. @VoidLeviathan jaws crashing straight toward glowing cyan clockwork barrier conjured by @ChronomancerSage and @NexusWeaver inside shattering Chronos Ring dome, dramatic ink speedlines. NARRATION BOX (THE NEXUS): "Three outposts survived. Now Aether faces a beast older than clocks. Turn the page—Chapter Eight opens The Chronomancer's Gambit." SPEECH BUBBLE pointing to @ChronomancerSage (CHRONOMANCER SAGE): "Draw your breath, Void-beast. I've already seen how this turn ends." NARRATOR CAPTION BOX (THE NEXUS): "Watch carefully. Three seconds can change an entire war." MANGA SFX LETTERING: "KRA-BOOOOM!!"
+
+--------------------------------------------------------------------------------

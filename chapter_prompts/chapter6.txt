@@ -1,0 +1,150 @@
+GLIMMERFALL: THE FRACTURED NEXUS — CHAPTER 06: THE GROVE SANCTUARY
+Act V • Truth of the First Awakening • 20 Pages
+Synopsis: Inside Grove Sanctuary, survivors from Solari, Aether, and Terra hear Gaia, The World-Soul recount the secret history of the Nightfall King—while Dawnblade Templar rallies the outer outpost defense.
+================================================================================
+
+REQUIRED GOOGLE FLOW REFERENCE IMAGES FOR CHAPTER 06:
+  @GroveSanctuary  ->  Save as GroveSanctuary.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/grove_sanctuary_32fed692-APbBP3LC7sidTSTpQedqV1F2J4TzR8.webp
+  @PrismCourier  ->  Save as PrismCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/prism_courier-6zqj6nRw2YQcEbgtiQEevxu4qGqARr.webp
+  @RootboundMystic  ->  Save as RootboundMystic.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/rootbound_mystic-OsInmXj6Q7VbPykrSmFqZzZGvyZfLx.webp
+  @GaiaWorldSoul  ->  Save as GaiaWorldSoul.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/gaia_the_world_soul-eSUIPVxMsMjwNuUWj8ol0eeglQnB7E.webp
+  @EmberwingCourier  ->  Save as EmberwingCourier.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/emberwing_courier-Oht1XWTnOuwzKS6wYvH04hk1DJhSAk.webp
+  @AstralCartographer  ->  Save as AstralCartographer.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/astral_cartographer-7GG14BRP1MzcbshykYme99rMIgOiOY.webp
+  @TheNightfallKing  ->  Save as TheNightfallKing.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/the_nightfall_king-0ELeQRhBTcmt752ijL5euMW4llDb4c.webp
+  @SingularityEngine  ->  Save as SingularityEngine.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/singularity_engine-vPuK01FkLh2PvRkqOrvHQrJh9OCiI8.webp
+  @BorrowedFace  ->  Save as BorrowedFace.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/borrowed_face-ALjDQvLbPzuMcOP6S0lThlYywoaS8N.webp
+  @VoltageSavant  ->  Save as VoltageSavant.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voltage_savant-0il55wWVRtqtl0pk7q7ByrO3zHyBSQ.webp
+  @DawnbladeTemplar  ->  Save as DawnbladeTemplar.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/dawnblade_templar-JSNrQIidGZhWg88RUeUCqOWBRcaAUy.webp
+  @AuroraMarshal  ->  Save as AuroraMarshal.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/aurora_marshal-yWkYSf7gJ07uPknnEB3QkYZ8ziADsq.webp
+  @HaloedBastion  ->  Save as HaloedBastion.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/haloed_bastion-1dNm622xXMsIYxvg53TjOU7sLZ88FI.webp
+  @SolariVanguard  ->  Save as SolariVanguard.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/solari_vanguard-wk1uWJgQQO4urlBOXVhAN7B6t9nHkI.webp
+  @GraveglassOracle  ->  Save as GraveglassOracle.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/graveglass_oracle-zgn55QLqVLToZVCWlTlGyo8TPvJezb.webp
+  @FirstlightScout  ->  Save as FirstlightScout.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/firstlight_scout-TouaMJEJANxIK1R6F3F2QXy3fLkXdn.webp
+  @SaplingDefender  ->  Save as SaplingDefender.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/sapling_defender-Gz8NyTnTctReFSo5lQkeWLAw8KKr6B.webp
+  @NexusWeaver  ->  Save as NexusWeaver.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/nexus_weaver-NOcmQGqx0xKOO72lBgXW3BpwMXSsfg.webp
+  @Flowbook  ->  Save as Flowbook.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/flowbook-mkagy4FcXtBxlGiZ4Ac8oHlTUAxIH0.webp
+  @SunfireColossus  ->  Save as SunfireColossus.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/sunfire_colossus-92PFjGRm2aR6Gi8d3xDq3XGWJiuOnt.webp
+  @DuskbladeFiend  ->  Save as DuskbladeFiend.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/duskblade_fiend-GUqHTXMNly5Tl5kt8692MIOW5dcYSx.webp
+  @VoidlingSwarm  ->  Save as VoidlingSwarm.webp  |  https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voidling_swarm-6uRtICeElPBdLeI9nz9LdJ9fSX1piv.webp
+
+================================================================================
+
+[#101 | Ch.06 Page 01/20 — Calm in the Eye of the World]
+Refs: @GroveSanctuary (GroveSanctuary.webp), @PrismCourier (PrismCourier.webp), @RootboundMystic (RootboundMystic.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Serene cathedral of colossal bioluminescent trees and mossy stone lanterns matching @GroveSanctuary as @PrismCourier and @RootboundMystic walk across clear mirror-water pools. NARRATION BOX (THE NEXUS): "Catch your breath here for a moment, Reader. Everywhere outside these ancient arches, sky-bridges burn and mountains groan—yet inside Grove Sanctuary, not one leaf trembles." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "Even the static noise in my wings went silent the second we crossed the moss gate..." SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "Because Gaia breathes slower than war. Speak gently before her roots." MANGA SFX LETTERING: "SHHH-RUSTLE..."
+
+--------------------------------------------------------------------------------
+
+[#102 | Ch.06 Page 02/20 — The Mother of Roots]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @EmberwingCourier (EmberwingCourier.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Breathtaking close portrait of @GaiaWorldSoul woven from blooming vines and ocean mist gazing down kindly at kneeling @EmberwingCourier, selective emerald-gold halo glow. NARRATION BOX (THE NEXUS): "Before the first Solari sun ignited, she dreamt of green. Look into her eyes—she has watched this cycle break once before." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Step forward, small fire-wing and star-drawer. You carry the scent of broken glass." SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "World-Soul... the Nightfall King is tearing open a Void Gate underneath all four plates!" MANGA SFX LETTERING: "HUM..."
+
+--------------------------------------------------------------------------------
+
+[#103 | Ch.06 Page 03/20 — Before the Plates Were Four]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @AstralCartographer (AstralCartographer.webp), @TheNightfallKing (TheNightfallKing.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Glowing water basin reflecting ancient crown silhouette of @TheNightfallKing standing atop unbroken monoliths as @GaiaWorldSoul and @AstralCartographer peer into ripples. NARRATION BOX (THE NEXUS): "Look down into the spring at Gaia's feet, Reader. The water doesn't reflect today—it remembers when GlimmerFall was one single unbroken continent." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Long before four factions drew borders, the Nightfall King was not an Umbri monarch. He was our first warden—who sacrificed his own name to lock away an older void." SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "Wait... our history books never mentioned a fifth crown!" MANGA SFX LETTERING: "RIPPLE..."
+
+--------------------------------------------------------------------------------
+
+[#104 | Ch.06 Page 04/20 — Why the Mirror Split]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @RootboundMystic (RootboundMystic.webp), @SingularityEngine (SingularityEngine.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Glowing root imagery forming four separated island plates around dark center. @SingularityEngine emblem as @GaiaWorldSoul speaks to @RootboundMystic. NARRATION BOX (THE NEXUS): "Every wall built to keep a monster out eventually traps whoever volunteered to hold the lock from inside." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "We split the continent into four floating plates so no single hand could reach the lock again. Over centuries, solitude hollowed him into despair." SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "So when Aether's Singularity Engine misfired... it didn't create a door. It picked his lock." MANGA SFX LETTERING: "CRINK..."
+
+--------------------------------------------------------------------------------
+
+[#105 | Ch.06 Page 05/20 — Checking the Graveglass Shard]
+Refs: @AstralCartographer (AstralCartographer.webp), @GaiaWorldSoul (GaiaWorldSoul.webp), @BorrowedFace (BorrowedFace.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Close focus on glowing violet shard hovering above sacred water revealing grinning. @BorrowedFace visage to startled @AstralCartographer and @GaiaWorldSoul. NARRATION BOX (THE NEXUS): "Remember the mirror sliver Graveglass Oracle risked her life to hand off? Now watch what ancient water reveals inside it." SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "World-Soul—Graveglass Oracle sent this sliver up from the Void Gate. Who inside Aether helped crack the seal?" SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Not an Aether mage alone. Look closely at the reflection's shadow—it wears a Borrowed Face." MANGA SFX LETTERING: "CHIME!"
+
+--------------------------------------------------------------------------------
+
+[#106 | Ch.06 Page 06/20 — The Traitor Named]
+Refs: @PrismCourier (PrismCourier.webp), @EmberwingCourier (EmberwingCourier.webp), @VoltageSavant (VoltageSavant.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Stark shock on @PrismCourier and @EmberwingCourier faces with mental flash silhouette of @VoltageSavant in shadows behind them. NARRATION BOX (THE NEXUS): "Wait—if a Borrowed Face infiltrated the High Council in Chronos Ring... who did Nexus Weaver leave guarding the bound Singularity Engine?!" SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "Voltage Savant!! Wait—no, when I left Chronos Ring, Voltage Savant's coat had no torn cuff... the one beside the console DID!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "The infiltrator stayed right next to Nexus Weaver!" MANGA SFX LETTERING: "GASP!"
+
+--------------------------------------------------------------------------------
+
+[#107 | Ch.06 Page 07/20 — Meanwhile, on the Outer Rim]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @AuroraMarshal (AuroraMarshal.webp), @HaloedBastion (HaloedBastion.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Windswept fortress ramparts under darkening purple-gold sky where. @DawnbladeTemplar draws her radiant broadsword beside @AuroraMarshal atop @HaloedBastion. NARRATION BOX (THE NEXUS): "While truth comes clear inside the quiet forest, war horns blow across the outer outpost rings." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Sound the triple horn! Two outpost monoliths went dark under eclipse haze!" SPEECH BUBBLE pointing to @AuroraMarshal (AURORA MARSHAL): "Templar! Half our air-wing is scattered—can you hold the three relay towers alone?!" MANGA SFX LETTERING: "HORN-BWAAAM!"
+
+--------------------------------------------------------------------------------
+
+[#108 | Ch.06 Page 08/20 — Forged from First Rays]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @SolariVanguard (SolariVanguard.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 heroic shot of @DawnbladeTemplar raising blazing golden sword high into dark storm clouds behind cheering @SolariVanguard shield line. NARRATION BOX (THE NEXUS): "Look at Dawnblade Templar's edge—it doesn't reflect light. It manufactures morning wherever it swings." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "As long as one ember stays lit in Solari, no void shadow takes an outpost!" SPEECH BUBBLE pointing to @SolariVanguard (SOLARI VANGUARD): "With you to the last step, Templar! Shield wall—forward!" MANGA SFX LETTERING: "SHIIIING!!"
+
+--------------------------------------------------------------------------------
+
+[#109 | Ch.06 Page 09/20 — The Sanctuary's Gift]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @RootboundMystic (RootboundMystic.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Delicate emerald-gold glowing seed floating smoothly from @GaiaWorldSoul's open palms into @RootboundMystic's waiting hands, soft bioluminescent fireflies. NARRATION BOX (THE NEXUS): "Back inside Grove Sanctuary, Gaia doesn't send warriors back into an eclipse empty-handed." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Carry this Heart-Seed to the Chronos Ring, Rootbound Mystic. When all four plates bleed light at once, weave them into a single bridge." SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "Four factions... bound into one? That hasn't been tried since the First Awakening." MANGA SFX LETTERING: "CHIME-HUM!"
+
+--------------------------------------------------------------------------------
+
+[#110 | Ch.06 Page 10/20 — How the Four Plates Heal]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @EmberwingCourier (EmberwingCourier.webp), @GraveglassOracle (GraveglassOracle.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Four radiant elemental rings floating above water basin encircling faint silhouette of @GraveglassOracle as @GaiaWorldSoul explains to @EmberwingCourier. NARRATION BOX (THE NEXUS): "Understand the secret behind GlimmerFall's universe, Reader: Solari, Umbri, Terra, and Aether weren't meant to conquer each other. Each one holds one quarter of the world's lock." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Solari carries the spark. Terra carries the weight. Aether carries the thread. And Umbri... carries the mirror." SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Wait—even Umbri?! Then we HAVE to save Graveglass Oracle down in the cavern!" MANGA SFX LETTERING: "VMMM..."
+
+--------------------------------------------------------------------------------
+
+[#111 | Ch.06 Page 11/20 — An Urgent Relay]
+Refs: @FirstlightScout (FirstlightScout.webp), @EmberwingCourier (EmberwingCourier.webp), @PrismCourier (PrismCourier.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Urgent motion inside Sanctuary entrance as breathless. @FirstlightScout points toward red flares in dark sky while @EmberwingCourier and @PrismCourier prepare to split flight paths. NARRATION BOX (THE NEXUS): "Outside the Sanctuary canopy, distant artillery flashes across the Helios sky-lanes." SPEECH BUBBLE pointing to @FirstlightScout (FIRSTLIGHT SCOUT): "*Bursting through the moss arch* Courier! Outpost Two just sent up red flares—Dawnblade Templar's vanguard is pinned down by Duskblade Fiends!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Prism—fly straight back to Chronos Ring and warn Nexus Weaver about the Borrowed Face! I'm diving for the outposts!" MANGA SFX LETTERING: "BOOM-FLASH!"
+
+--------------------------------------------------------------------------------
+
+[#112 | Ch.06 Page 12/20 — The Cartographer's Choice]
+Refs: @AstralCartographer (AstralCartographer.webp), @PrismCourier (PrismCourier.webp), @RootboundMystic (RootboundMystic.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Determined. @AstralCartographer adjusting his cracked astrolabe while telling @PrismCourier and @RootboundMystic on mossy steps. NARRATION BOX (THE NEXUS): "Scholars rarely volunteer for frontline sieges—unless they owe a debt written in obsidian." SPEECH BUBBLE pointing to @AstralCartographer (ASTRAL CARTOGRAPHER): "Prism, wait! Tell Chronomancer Sage I'm going back down with Terra scouts to rescue Graveglass Oracle!" SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "You're insane—the stairs collapsed! How are you getting back into the Obsidian Veil?!" MANGA SFX LETTERING: "STEP..."
+
+--------------------------------------------------------------------------------
+
+[#113 | Ch.06 Page 13/20 — Roots Know Every Tunnel]
+Refs: @RootboundMystic (RootboundMystic.webp), @AstralCartographer (AstralCartographer.webp), @SaplingDefender (SaplingDefender.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Colossal braided roots parting smoothly like living wooden doors into glowing cavern depth before @RootboundMystic, @AstralCartographer, and @SaplingDefender. NARRATION BOX (THE NEXUS): "Who needs stone stairs when a World-Soul parts her oldest roots?" SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "Step through here, mapmaker. Gaia's deep roots reach all the way to the rim of Umbri's mirror hall." SPEECH BUBBLE pointing to @SaplingDefender (SAPLING DEFENDER): "I'm coming with him, Mystic! Stonekin Elder says nobody walks the deep dark alone!" MANGA SFX LETTERING: "CREAAAK-OPEN..."
+
+--------------------------------------------------------------------------------
+
+[#114 | Ch.06 Page 14/20 — Into the Eclipse Wind]
+Refs: @EmberwingCourier (EmberwingCourier.webp), @PrismCourier (PrismCourier.webp) | Ratio: 9:16
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Vertical 9:16 dynamic shot of @EmberwingCourier and @PrismCourier rocketing skyward out of forest canopy into eclipsed clouds in opposite directions, selective gold and cyan wing trails. NARRATION BOX (THE NEXUS): "Two winged messengers burst up out of the emerald canopy straight into a purple sky." SPEECH BUBBLE pointing to @PrismCourier (PRISM COURIER): "See you at the Convergence, Emberwing!" SPEECH BUBBLE pointing to @EmberwingCourier (EMBERWING COURIER): "Don't drop that warning! Hold the Chronos Ring!" MANGA SFX LETTERING: "WHOOOSH!!"
+
+--------------------------------------------------------------------------------
+
+[#115 | Ch.06 Page 15/20 — The Weaver's Blind Spot]
+Refs: @NexusWeaver (NexusWeaver.webp), @BorrowedFace (BorrowedFace.webp), @SingularityEngine (SingularityEngine.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Chilling suspense inside dim observatory as @BorrowedFace grins behind unsuspecting @NexusWeaver beside the shadowed @SingularityEngine, selective cyan-violet glare. NARRATION BOX (THE NEXUS): "Meanwhile, back inside the Chronos Ring, Nexus Weaver hasn't heard the warning yet—and someone standing two paces behind her just unlatched a brass lock." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Voltage? Why did the root-binding runes around the core just go dark?" SPEECH BUBBLE pointing to @BorrowedFace (BORROWED FACE): "Oh, Weaver... you really shouldn't turn your back on an old colleague." MANGA SFX LETTERING: "CLICK..."
+
+--------------------------------------------------------------------------------
+
+[#116 | Ch.06 Page 16/20 — A Flash of Static]
+Refs: @NexusWeaver (NexusWeaver.webp), @BorrowedFace (BorrowedFace.webp), @Flowbook (Flowbook.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Explosive cyan prism shield erupting from open. @Flowbook as @NexusWeaver blocks dagger strike from peeling @BorrowedFace impostor. NARRATION BOX (THE NEXUS): "Never test a Weaver's reflexes inside her own observatory." SPEECH BUBBLE pointing to @NexusWeaver (NEXUS WEAVER): "Your shadow moved left when you stepped right! Flowbook—MIRROR WARD!" SPEECH BUBBLE pointing to @BorrowedFace (BORROWED FACE): "Tch—sharp eyes! No matter. Your little engine is already unlocked!" MANGA SFX LETTERING: "ZAP-SHING!"
+
+--------------------------------------------------------------------------------
+
+[#117 | Ch.06 Page 17/20 — The Sunfire Awakens]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @SunfireColossus (SunfireColossus.webp), @SolariVanguard (SolariVanguard.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Colossal. @SunfireColossus stepping out of molten forge gates behind @DawnbladeTemplar and @SolariVanguard overlooking dark battlefield, selective blazing gold magma glow. NARRATION BOX (THE NEXUS): "Look out across the eastern sky-outposts—Dawnblade Templar isn't fighting alone anymore. Look what just marched out of the Helios furnace." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Void swarms are thickening along Outpost Three! Bring up the Sunfire Colossus!" SPEECH BUBBLE pointing to @SolariVanguard (SOLARI VANGUARD): "Forge-gates open! Let the Nightfall hounds taste a walking sun!" MANGA SFX LETTERING: "ROOOAR-THUD!"
+
+--------------------------------------------------------------------------------
+
+[#118 | Ch.06 Page 18/20 — Gaia's Quiet Farewell]
+Refs: @GaiaWorldSoul (GaiaWorldSoul.webp), @RootboundMystic (RootboundMystic.webp), @GroveSanctuary (GroveSanctuary.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Poetic fading luminescence as @GaiaWorldSoul settles gently back into ancient world-tree trunk inside @GroveSanctuary while @RootboundMystic bows deeply. NARRATION BOX (THE NEXUS): "Notice how pale the World-Soul looks now that the Heart-Seed left her hands. Giving strength to the plates costs even a god." SPEECH BUBBLE pointing to @GaiaWorldSoul (GAIA, THE WORLD-SOUL): "Walk swiftly, my children. I will hold the roots until the four beams meet." SPEECH BUBBLE pointing to @RootboundMystic (ROOTBOUND MYSTIC): "Sleep gently, Mother. When dawn returns, we will plant new sky." MANGA SFX LETTERING: "HUM-FADE..."
+
+--------------------------------------------------------------------------------
+
+[#119 | Ch.06 Page 19/20 — Eclipse Over the Three Outposts]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @DuskbladeFiend (DuskbladeFiend.webp), @VoidlingSwarm (VoidlingSwarm.webp) | Ratio: 3:4
+Authentic Japanese shonen/seinen manga page in the dynamic multi-panel ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels: Terrifying wave of @DuskbladeFiend and @VoidlingSwarm descending out of purple storm clouds toward braced golden line led by @DawnbladeTemplar. NARRATION BOX (THE NEXUS): "The calm inside Grove Sanctuary ends here. Three outposts stand between Umbri's horde and the heart of Solari." SPEECH BUBBLE pointing to @DuskbladeFiend (DUSKBLADE FIEND): "*Shrieking from storm clouds above Outpost One*" SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "Shields locked! Light the flares—here comes the siege!" MANGA SFX LETTERING: "CRAAACK-ROAR!"
+
+--------------------------------------------------------------------------------
+
+[#120 | Ch.06 Page 20/20 — Chapter 6 Finale: Charge of the Dawnblade]
+Refs: @DawnbladeTemplar (DawnbladeTemplar.webp), @SunfireColossus (SunfireColossus.webp), @EmberwingCourier (EmberwingCourier.webp) | Ratio: 16:9
+Authentic Japanese shonen/seinen manga double-page splash in the dynamic ink, screentone, and expressive lettering style of Naruto, One Piece, Bleach, and Pokémon Adventures, WITH crisp white manga speech bubbles, rectangular narration boxes, and bold hand-lettered SFX inside the panels. Double-page battle splash, @DawnbladeTemplar leading gleaming Solari charge flanked by towering @SunfireColossus and diving @EmberwingCourier slamming into swirling void horde under eclipsed sun. NARRATION BOX (THE NEXUS): "The Sanctuary blessed their quest. Now steel and sunfire must win the ground to cast it. Turn the page—Chapter Seven begins the Siege of the Three Outposts." SPEECH BUBBLE pointing to @DawnbladeTemplar (DAWNBLADE TEMPLAR): "For every broken sky-lane—CHARGE!" NARRATOR CAPTION BOX (THE NEXUS): "No more secrets. Only fire, steel, and three contested monoliths." MANGA SFX LETTERING: "BWOOOOOM!!"
+
+--------------------------------------------------------------------------------
