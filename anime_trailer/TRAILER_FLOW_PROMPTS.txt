@@ -1,0 +1,241 @@
+GLIMMERFALL: THE FRACTURED NEXUS — SEASON 1 ANIME TRAILER (24-SHOT FLOW PACK)
+Storyline: Exact chronological arc across Manga Chapters 01–10
+Budget Plan: 24 Veo 3 Fast Clips (~8s each = ~3m 12s raw cuts, ~480 Flow credits)
+Format: 16:9 Widescreen • Mode: Google Flow "Ingredients to Video" (or "Frames to Video" using your manga pages!)
+====================================================================================
+
+GLOBAL STYLE & AUDIO RULES FOR GOOGLE FLOW:
+- Style Lock: High-budget Japanese sakuga anime film style reminiscent of ufotable and MAPPA (Demon Slayer / Jujutsu Kaisen / Bleach TYBW), crisp cel-shaded linework, dramatic rim lighting, floating volumetric debris, 24fps cinematic motion, zero text, zero subtitles, zero watermarks.
+- Tip for Flow Credits: Use "Veo 3 Fast" (16:9) with Ingredients-to-Video (~20 credits/clip = ~480 credits total) so every character keeps exact armor & silhouette from the @ReferenceName card below.
+- Ingredient Cap Rule: Google Flow allows up to 3 @Ingredients per generation — every shot below uses 1–3 attached ingredients so all @Tags resolve cleanly.
+- Tip for Audio: Keep Flow's ambient SFX on (thunder, steel clash, wind, roar) — we will mix your extended GlimmerFall OST afterward using assemble_trailer.py (or mix SFX + OST + VO in an editor)!
+
+REQUIRED GOOGLE FLOW REFERENCE IMAGES (SAVE BY EXACT @ALIAS NAME):
+  @RealityFracture     -> RealityFracture.webp     | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/reality_fracture-8XQsjUisfbiKATf04iWyzfGf2ZHQ8C.webp
+  @EmberwingCourier    -> EmberwingCourier.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/emberwing_courier-Oht1XWTnOuwzKS6wYvH04hk1DJhSAk.webp
+  @PrismCourier        -> PrismCourier.webp        | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/prism_courier-6zqj6nRw2YQcEbgtiQEevxu4qGqARr.webp
+  @SolariVanguard      -> SolariVanguard.webp      | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/solari_vanguard-wk1uWJgQQO4urlBOXVhAN7B6t9nHkI.webp
+  @SingularityEngine   -> SingularityEngine.webp   | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/singularity_engine-vPuK01FkLh2PvRkqOrvHQrJh9OCiI8.webp
+  @ChronomancerSage    -> ChronomancerSage.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/chronomancer_sage_d0f7b5cd-o48VRne3cfjxsSqODePYhc8CAFsCkH.webp
+  @RootboundMystic     -> RootboundMystic.webp     | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/rootbound_mystic-OsInmXj6Q7VbPykrSmFqZzZGvyZfLx.webp
+  @UmbralAssassin      -> UmbralAssassin.webp      | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/umbral_assassin-bvTGbKEsA9blju7FlqrHtEnT4KeD1R.webp
+  @ShadowCloak         -> ShadowCloak.webp         | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/shadow_cloak-lWervjUbI7OxQUr1jSwYzvJ7R4xejp.webp
+  @RadiantShield       -> RadiantShield.webp       | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/radiant_shield-g9UPwgMk3Ur8IuH5ddgmtrEkVo34iU.webp
+  @GraveglassOracle    -> GraveglassOracle.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/graveglass_oracle-zgn55QLqVLToZVCWlTlGyo8TPvJezb.webp
+  @AstralCartographer  -> AstralCartographer.webp  | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/astral_cartographer-7GG14BRP1MzcbshykYme99rMIgOiOY.webp
+  @VoidStalker         -> VoidStalker.webp         | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/void_stalker-kzV5fvGiL0oichytjJuMd6SzyDPug9.webp
+  @VoidGate            -> VoidGate.webp            | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/void_gate_1131ae56-0jCvm8ExEg2Txe2ZATVKgqIYOGTr9F.webp
+  @Earthshatter        -> Earthshatter.webp        | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/earthshatter-jSblsDEGVJn4wTM3f89FVR37ofNtJT.webp
+  @ForestWarden        -> ForestWarden.webp        | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/forest_warden-INbal3aT6vhxB1dYE1YhI8tp2bCVoh.webp
+  @TectonicColossus    -> TectonicColossus.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/tectonic_colossus_adb43c73-AV8L6MJH9vodfHjea4K5DNNaH0Nkeo.webp
+  @GroveSanctuary      -> GroveSanctuary.webp      | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/grove_sanctuary_32fed692-APbBP3LC7sidTSTpQedqV1F2J4TzR8.webp
+  @GaiaWorldSoul       -> GaiaWorldSoul.webp       | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/gaia_the_world_soul-eSUIPVxMsMjwNuUWj8ol0eeglQnB7E.webp
+  @DawnbladeTemplar    -> DawnbladeTemplar.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/dawnblade_templar-JSNrQIidGZhWg88RUeUCqOWBRcaAUy.webp
+  @VoidlingSwarm       -> VoidlingSwarm.webp       | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/voidling_swarm-6uRtICeElPBdLeI9nz9LdJ9fSX1piv.webp
+  @SunfireColossus     -> SunfireColossus.webp     | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/sunfire_colossus-92PFjGRm2aR6Gi8d3xDq3XGWJiuOnt.webp
+  @VoidLeviathan       -> VoidLeviathan.webp       | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/void_leviathan_17e944bc-mBs9kKXDMrupU9fO1FblwypdqeGod9.webp
+  @NexusWeaver         -> NexusWeaver.webp         | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/nexus_weaver-NOcmQGqx0xKOO72lBgXW3BpwMXSsfg.webp
+  @Mirrorgate          -> Mirrorgate.webp          | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/mirrorgate-Pg06WofYDxLPFuBXUXRm4pE3twKyg6.webp
+  @TheNightfallKing    -> TheNightfallKing.webp    | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/the_nightfall_king-0ELeQRhBTcmt752ijL5euMW4llDb4c.webp
+  @SolarFlare          -> SolarFlare.webp          | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards/solar_flare-wEGKkvFEFQ7bVQsyotKgu0iiVas1hW.webp
+  @AstralConvergence   -> AstralConvergence.webp   | https://wqnuijtdmorxprhl.public.blob.vercel-storage.com/glimmerfall/cards2/astral_convergence_51c1209b-bYYfeeHIPoZemAGuVkAO5x3kAUdyLF.webp
+
+====================================================================================
+ACT I — THE SKY CRACKS (CHAPTERS 01–02)
+====================================================================================
+
+[SHOT 01 | Ch.01 — Voice of the Four Plates]
+Refs: @RealityFracture | Ratio: 16:9
+Audio/VO Cue: THE NEXUS: "Four broken worlds orbit one wounded sky... until tonight."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime film shot in the style of ufotable and MAPPA, crisp cel-shaded lineart, volumetric mist, zero text, zero watermarks. Sweeping slow orbital aerial camera push over the Fractured Nexus showing four colossal floating fantasy continents (a golden solar spire, an obsidian citadel, a giant-root forest, and a rotating cyan clockwork ring) as a violet-cyan tear matching @RealityFracture slowly splits open the upper starlight sky with drifting floating stones. Sound: deep resonant wind hum and crystalline creak.
+
+------------------------------------------------------------------------------------
+
+[SHOT 02 | Ch.01 — The First Crack & Sky-Dive]
+Refs: @RealityFracture, @EmberwingCourier, @PrismCourier | Ratio: 16:9
+Audio/VO Cue: EMBERWING COURIER: "Ride the shockwave straight through!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime action shot, intense dynamic tracking camera, dramatic speedlines and lens flare, zero text. @RealityFracture violently shatters open above storm clouds as armored @EmberwingCourier with blazing amber starlight wings and @PrismCourier banking on cyan crystal trails rocket diagonally down between falling glass shards at blistering anime velocity. Sound: thunderous glass shatter and roaring wind.
+
+------------------------------------------------------------------------------------
+
+[SHOT 03 | Ch.01 — Black Rain Over Helios]
+Refs: @SolariVanguard, @EmberwingCourier | Ratio: 16:9
+Audio/VO Cue: SOLARI VANGUARD: "Hold shields overhead! That isn't hail—that's Umbri obsidian!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime shot, moody sunset rim light colliding with dark ash rain, zero text. Low-angle cinematic pan along a gilded fortress sky-bridge where @SolariVanguard raises golden shields against falling jagged black glass shards while smoking @EmberwingCourier skids onto the stone floor in the foreground. Sound: metallic clinking rain and screeching armor skid.
+
+------------------------------------------------------------------------------------
+
+[SHOT 04 | Ch.02 — Gravity Fails in Chronos Ring]
+Refs: @SingularityEngine, @NexusWeaver | Ratio: 16:9
+Audio/VO Cue: NEXUS WEAVER: "Something on the other side reached in and turned the key."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime interior shot, swirling zero-gravity dust and crackling cyan lightning arcs, zero text. Dynamic tilted camera whip inside a grand brass-and-crystal observatory as @SingularityEngine spins wildly out of control levitating books and debris while @NexusWeaver weaves glowing cyan runes with outstretched hands. Sound: rising arcane turbine whine and electrical snaps.
+
+------------------------------------------------------------------------------------
+
+[SHOT 05 | Ch.02 — Three Seconds Frozen]
+Refs: @ChronomancerSage | Ratio: 16:9
+Audio/VO Cue: CHRONOMANCER SAGE: "Halt. Three seconds of stillness."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime close-to-medium shot, dramatic time-stop color inversion pulse, zero text. @ChronomancerSage snaps his fingers as concentric glowing cyan clockwork halos expand outward, instantaneously freezing thousands of shattered glass fragments and dust particles in mid-air while camera orbits smoothly around him. Sound: crisp clock tick followed by deep bass vacuum silence.
+
+------------------------------------------------------------------------------------
+
+[SHOT 06 | Ch.02 — Borrow the Weight of Earth]
+Refs: @RootboundMystic, @SingularityEngine | Ratio: 16:9
+Audio/VO Cue: ROOTBOUND MYSTIC: "The Verdant Fault does not yield to your clocks!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime sakuga impact cut, explosive debris and glowing emerald particles, zero text. Low-angle shot as @RootboundMystic slams her gnarled staff onto fractured observatory stone, unleashing titanic emerald-veined living roots that burst upward through brass floorplates and coil violently around the levitating @SingularityEngine. Sound: earth-shattering stone crack and deep booming root eruption.
+
+====================================================================================
+ACT II — SHADOWS & SECRETS BELOW (CHAPTERS 03–04)
+====================================================================================
+
+[SHOT 07 | Ch.03 — Blind Spot Ambush]
+Refs: @UmbralAssassin, @ShadowCloak | Ratio: 16:9
+Audio/VO Cue: UMBRAL ASSASSIN: "Light always casts a blind spot."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime stealth-action shot, razor-sharp contrast between burning torchlight and pitch-black smoke, zero text. Fast tracking shot along a darkened sky-bridge parapet as @UmbralAssassin emerges abruptly out of swirling @ShadowCloak darkness in mid-leap, twin violet-edged daggers slashing toward the camera in slow-motion smear frames. Sound: eerie cloak flutter and razor blade unsheathe.
+
+------------------------------------------------------------------------------------
+
+[SHOT 08 | Ch.03 — Mirror of Malice]
+Refs: @SolariVanguard, @RadiantShield, @UmbralAssassin | Ratio: 16:9
+Audio/VO Cue: SOLARI VANGUARD: "Every cut aimed in hate returns tenfold in starlight!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime clash cut, blinding golden impact frames and flying sparks, zero text. Close-medium dynamic shot as @SolariVanguard slams the glowing hexagonal @RadiantShield upward to intercept @UmbralAssassin's twin dark blades, detonating a blinding amber shockwave that blasts violet shadow embers backward. Sound: resonant metallic clang and radiant energy blast.
+
+------------------------------------------------------------------------------------
+
+[SHOT 09 | Ch.04 — Reflections of Graveglass]
+Refs: @GraveglassOracle | Ratio: 16:9
+Audio/VO Cue: GRAVEGLASS ORACLE: "I do not predict the future. I merely watch the glass crack."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime portrait shot, hypnotic slow dolly-in through floating obsidian mirror shards, zero text. Atmospheric shot inside a gothic dark crystal hall where @GraveglassOracle floats calmly at center with glowing violet eyes while dozens of jagged black mirror fragments slowly orbit her, each reflecting flashes of burning sky-bridges. Sound: delicate haunting glass chimes and hollow wind.
+
+------------------------------------------------------------------------------------
+
+[SHOT 10 | Ch.04 — Stalked in the Trench]
+Refs: @AstralCartographer, @VoidStalker | Ratio: 16:9
+Audio/VO Cue: (Breathless tension in the dark)
+Flow Veo Prompt:
+High-budget Japanese sakuga anime suspense action shot, claustrophobic cavern lighting from a single cyan lantern, zero text. Handheld-style anime tracking shot down a narrow obsidian staircase as @AstralCartographer spins around lifting his glowing astrolabe just as a jagged purple-eyed @VoidStalker lunges down off the ceiling stalactites. Sound: metallic screech and lantern flare.
+
+------------------------------------------------------------------------------------
+
+[SHOT 11 | Ch.04 — A Hand Through the Void Gate]
+Refs: @VoidGate, @TheNightfallKing | Ratio: 16:9
+Audio/VO Cue: THE NIGHTFALL KING: "Tell the upper sky... I am almost awake."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime horror reveal, monumental cavern scale, dark violet lightning, zero text. Wide low-angle camera push toward the colossal jagged @VoidGate archway pulsing with swirling abyssal mist as a terrifying dark-armored skeletal hand matching @TheNightfallKing presses outward against the cracked glass membrane, spiderwebbing fractures across the frame. Sound: deep tectonic bass rumble and glass cracking.
+
+====================================================================================
+ACT III — TITANS, SANCTUARY & TOTAL WAR (CHAPTERS 05–08)
+====================================================================================
+
+[SHOT 12 | Ch.05 — The Fault Splits]
+Refs: @Earthshatter, @ForestWarden | Ratio: 16:9
+Audio/VO Cue: FOREST WARDEN: "Sound the horn of stone before the plate splits in two!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime disaster shot, sweeping crane tilt down into widening canyon chasm, zero text. Dramatic wide shot of ancient giant redwood forest cracking cleanly down the middle matching @Earthshatter while boulders and waterfalls plunge into clouds below and @ForestWarden plants his glowing oak staff firmly on the cliff rim. Sound: deafening rock split and rushing waterfall roar.
+
+------------------------------------------------------------------------------------
+
+[SHOT 13 | Ch.05 — Awakening of the Tectonic Colossus]
+Refs: @TectonicColossus, @ForestWarden | Ratio: 16:9
+Audio/VO Cue: FOREST WARDEN: "Rise, Tectonic Colossus! Catch the continent!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime titan reveal, awe-inspiring worm's-eye camera tilt upward, cascading boulders and emerald moss light, zero text. Colossal mountain-sized @TectonicColossus stands slowly up out of the deep valley chasm as glowing green veins ignite across its cliff-face armor and huge stone shoulders catch the slipping forest edge above tiny @ForestWarden. Sound: monumental grinding mountain groan and deep horn blast.
+
+------------------------------------------------------------------------------------
+
+[SHOT 14 | Ch.06 — Calm Inside Grove Sanctuary]
+Refs: @GroveSanctuary, @GaiaWorldSoul | Ratio: 16:9
+Audio/VO Cue: GAIA, THE WORLD-SOUL: "You cannot mend a shattered crown with steel alone."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime atmospheric breathing beat, soft golden-emerald sunbeams piercing ancient canopy, drifting fireflies, zero text. Serene slow pan across the sacred water pools of @GroveSanctuary as ethereal @GaiaWorldSoul rises gracefully from braided glowing roots at center holding a warm luminous Heart-Seed in open palms. Sound: gentle harp swell and soft forest breeze.
+
+------------------------------------------------------------------------------------
+
+[SHOT 15 | Ch.07 — Charge of the Dawnblade]
+Refs: @DawnbladeTemplar, @VoidlingSwarm | Ratio: 16:9
+Audio/VO Cue: DAWNBLADE TEMPLAR: "For every broken sky-lane—CHARGE!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime warzone cut, blistering diagonal camera rush with dramatic impact smears, zero text. Armored @DawnbladeTemplar sprints forward across burning outpost stone bridges, swinging a radiant sword of compressed sunlight in a sweeping golden arc that cleaves straight through leaping dark @VoidlingSwarm monsters under a bruised eclipse sky. Sound: fierce warcry echo and blazing blade cleave.
+
+------------------------------------------------------------------------------------
+
+[SHOT 16 | Ch.07 — Sunfire Titan Unleashed]
+Refs: @SunfireColossus | Ratio: 16:9
+Audio/VO Cue: (Molten artillery roar across the battlements)
+Flow Veo Prompt:
+High-budget Japanese sakuga anime titan battle shot, heavy smoke plumes and blinding molten gold glow, zero text. Low-angle shot of towering armored @SunfireColossus striding forward over ruined fortress walls as its furnace chest plates snap open, blasting an overwhelming wave of golden solar fire across the dark battlefield. Sound: massive furnace ignition roar and bass shockwave.
+
+------------------------------------------------------------------------------------
+
+[SHOT 17 | Ch.08 — Void Leviathan Breaches the Dome]
+Refs: @VoidLeviathan, @ChronomancerSage | Ratio: 16:9
+Audio/VO Cue: CHRONOMANCER SAGE: "Three seconds wasted. Let's draw that turn again."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime cosmic monster shot, shattering glass dome in dramatic slow-to-fast speed ramp, zero text. Terrifying colossal @VoidLeviathan with dozens of glowing violet eyes smashes through the Chronos Ring skylight dome toward @ChronomancerSage calmly spinning glowing cyan clockwork spell circles in the foreground. Sound: shattering crystal dome and deep echoing serpent roar.
+
+------------------------------------------------------------------------------------
+
+[SHOT 18 | Ch.08 — The Infinite Mirrorgate Loop]
+Refs (3 Max): @NexusWeaver, @Mirrorgate, @VoidLeviathan | Ratio: 16:9
+Audio/VO Cue: NEXUS WEAVER: "Trap it in perpetual orbit!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime spatial magic shot, sweeping 180-degree camera arc across glowing portals, zero text. Inside the shattered hall, @NexusWeaver commands twin blazing cyan @Mirrorgate portals facing one another as a streaking cyan sky-courier lures the thrashing @VoidLeviathan headfirst through one gate straight into its own tail emerging from the opposite gate. Sound: resonant dimensional warp chime.
+
+====================================================================================
+ACT IV — ECLIPSE & ASTRAL CONVERGENCE (CHAPTERS 09–10)
+====================================================================================
+
+[SHOT 19 | Ch.09 — The Nightfall King Ascends]
+Refs: @TheNightfallKing | Ratio: 16:9
+Audio/VO Cue: THE NIGHTFALL KING: "Let the Nexus fracture. Tonight, every star bends to the crown of night."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime villain climax shot, dramatic upward crane shot under a total black solar eclipse with violet rim lighting, zero text. Towering crowned @TheNightfallKing floats ominously atop a jagged obsidian spire suspended dead-center in the sky as his tattered shadow cloak billows wide and giant floating rock fragments begin pulling inward around him. Sound: oppressive sub-bass pulse and howling eclipse wind.
+
+------------------------------------------------------------------------------------
+
+[SHOT 20 | Ch.09 — Desperate Ascent Through the Storm]
+Refs: @EmberwingCourier, @PrismCourier, @TheNightfallKing | Ratio: 16:9
+Audio/VO Cue: PRISM COURIER: "NOW, EMBERWING! Hit the Graveglass lens!!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime high-speed aerial pursuit, blinding speedlines spiraling up a dark tornado column, zero text. Dynamic chasing camera right behind @EmberwingCourier and @PrismCourier corkscrewing upward together through violent purple wind currents directly toward the hovering silhouette of @TheNightfallKing overhead. Sound: screaming supersonic air slice.
+
+------------------------------------------------------------------------------------
+
+[SHOT 21 | Ch.09 — SOLAR FLARE!!]
+Refs: @SolarFlare, @EmberwingCourier, @TheNightfallKing | Ratio: 16:9
+Audio/VO Cue: EMBERWING COURIER: "If this is our last flare—THEN BURN THE NIGHT AWAY!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime climax detonation, dramatic 2-frame black-and-white impact flash exploding into blinding gold @SolarFlare plasma, zero text. Blinding solar explosion erupts from @EmberwingCourier and refracts straight across the eclipse sky into @TheNightfallKing, blowing dark storm clouds apart in radial golden shockwaves. Sound: piercing angelic chime into earth-shaking detonation.
+
+------------------------------------------------------------------------------------
+
+[SHOT 22 | Ch.10 — Four Threads, One Loom]
+Refs (3 Max): @NexusWeaver, @RootboundMystic, @DawnbladeTemplar | Ratio: 16:9
+Audio/VO Cue: NEXUS WEAVER: "Four threads. One loom. Watch the fractured cards become a living world!"
+Flow Veo Prompt:
+High-budget Japanese sakuga anime rapid montage orbit shot, camera circling four heroes at compass points, zero text. Swirling 360-degree camera shot around a crystalline terrace where @NexusWeaver (cyan), @RootboundMystic (emerald), @DawnbladeTemplar (gold), and a hooded violet glass-oracle opposite them slam their hands downward simultaneously, launching four elemental energy pillars straight up into the sky. Sound: triumphant rising orchestral chord.
+
+------------------------------------------------------------------------------------
+
+[SHOT 23 | Ch.10 — Astral Convergence]
+Refs (3 Max): @AstralConvergence, @SingularityEngine, @GaiaWorldSoul | Ratio: 16:9
+Audio/VO Cue: THE NEXUS: "Not to end the world... but to summon its champions."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime grand finale vista, extreme wide panoramic pull-back, radiant prismatic aura, zero text. The four elemental beams fuse seamlessly into @SingularityEngine high above the sky-rift, triggering a breathtaking @AstralConvergence sky-bloom as glowing crystal bridges stitch the four continents back into bright daylight while luminous @GaiaWorldSoul petals drift across the frame. Sound: soaring choir swell and crystalline resonance.
+
+------------------------------------------------------------------------------------
+
+[SHOT 24 | Ch.10 — Finale: Welcome to GlimmerFall]
+Refs (3 Max): @EmberwingCourier, @NexusWeaver, @DawnbladeTemplar | Ratio: 16:9
+Audio/VO Cue: THE NEXUS (TO READER): "Draw your next chapter — GlimmerFallTCG.com & GlimmerFall.Online."
+Flow Veo Prompt:
+High-budget Japanese sakuga anime closing hero panorama, crisp morning sunlight over restored floating sky-citadel, zero text. Slow triumphant dolly-past showing @NexusWeaver, @DawnbladeTemplar, an emerald forest mystic, and a veiled violet oracle standing side-by-side overlooking the shining new Fractured Nexus plaza as @EmberwingCourier soars gracefully overhead across clear blue clouds into the rising sun. Sound: warm final piano chord fading into open sky wind.
